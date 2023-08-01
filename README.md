@@ -82,6 +82,18 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08477) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://latent-shift.github.io/) 
 
++ [MagicVideo: Efficient Video Generation With Latent Diffusion Models](https://arxiv.org/abs/2211.11018) (Nov., 2022)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.11018) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://magicvideo.github.io/#)
+
++ [Imagen Video: High Definition Video Generation With Diffusion Models](https://arxiv.org/abs/2210.02303) (Oct., 2022)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02303) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://imagen.research.google/video/)
+
++ [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://openreview.net/forum?id=nJfylDvgzlq) (ICLR 2023)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/forum?id=nJfylDvgzlq) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://makeavideo.studio)
+
 
 ### Training-free Video Generation
 + [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2305.13077) (May, 2023)  
@@ -252,17 +264,7 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.11743) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yanivnik.github.io/sinfusion/)
 
-+ [MagicVideo: Efficient Video Generation With Latent Diffusion Models](https://arxiv.org/abs/2211.11018) (Nov., 2022)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.11018) 
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://magicvideo.github.io/#)
 
-+ [Imagen Video: High Definition Video Generation With Diffusion Models](https://arxiv.org/abs/2210.02303) (Oct., 2022)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02303) 
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://imagen.research.google/video/)
-
-+ [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://openreview.net/forum?id=nJfylDvgzlq) (ICLR 2023)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/forum?id=nJfylDvgzlq) 
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://makeavideo.studio)
 
 + [Diffusion Models for Video Prediction and Infilling](https://arxiv.org/abs/2206.07696) (TMLR 2022)   
   [![Star](https://img.shields.io/github/stars/Tobi-r9/RaMViD.svg?style=social&label=Star)](https://github.com/Tobi-r9/RaMViD) 
