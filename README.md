@@ -35,8 +35,11 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 ## Table of Contents <!-- omit in toc -->
 
 <!-- - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models) -->
-- [Video Generation](#Video-Generation)
-- - [General T2V Generation](#General-T2V-Generation)
+- [Video Generation](#video-generation)
+- - [Data](#data)
+- - - [Caption-level](#caption-level)
+- - - [Category-level](#category-level)
+- - [General T2V Generation](#general-t2v-generation)
 - - - [Training-based](#Training-based)
 - - - [Training-free](#Training-free)
 - - [Domain-specific](#Domain-specific-Video-Generation)
@@ -44,22 +47,23 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 - - - [Personalized Video](#Personalized-Video)
 - - - [Human Video](#Human-Video-Generation)
 - - [Modality Control](#Modality-Control-Video-Generation)
-- - - [Pose-gudied](#Pose-guided )
-- - - [Sound-guided](#Sound-guided)
-- - - [Brain-guided](#Brain-guided)
+- - - [Pose-gudied](#pose-guided )
+- - - [Instruct-guided](#instruct-guided)
+- - - [Sound-guided](#sound-guided)
+- - - [Brain-guided](#brain-guided)
 - - - [Multi-Modal guided](#Multi-modal-Controllable-Video-Generation)
-- - [Video Completion](#Video-Completion)
-- - - [Video Enhance and Restoration](#Video-Enhancement-and-Restoration)
-- - - [Long Video Generation](#Long-Video-Generation)
-- - - [Video Prediction](#Video-Prediction)
+- - [Video Completion](#video-completion)
+- - - [Video Enhance and Restoration](#video-enhancement-and-restoration)
+- - - [Long Video Generation](#long-video-generation)
+- - - [Video Prediction](#video-prediction)
 - [Video Editing](#video-editing)
-- - [General Editing](#General-Editing-Model)
-- - [One-shot Editing](#One-shot-Editing-Model)
-- - [Traning-free](#Training-free-Editing-Model)
-- - [Sound-guided](#Sound-guided-Editing-Model)
-- - [Multi-Modal Control](#Multi-Modal-Control-Editing-Model)
-- - [Domain-specific Editing](#Domain-specific-Editing-Model)
-- - [Non-diffusion Editing](#Non-diffusion-Editing-Model)
+- - [General Editing](#general-editing-model)
+- - [One-shot Editing](#one-shot-editing-model)
+- - [Traning-free](#training-free-editing-model)
+- - [Sound-guided](#sound-guided-editing-model)
+- - [Multi-Modal Control](#multi-modal-control-editing-model)
+- - [domain-specific editing](#domain-specific-editing-model)
+- - [Non-diffusion editing](#non-diffusion-editing-Model)
 - [Video Understanding](#video-understanding)
 
 
@@ -82,6 +86,41 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 
 # Video Generation
+
+## Data
+
+### Caption-level
++ [InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation](https://arxiv.org/abs/2307.06942) (Jul., 2023)  
+  [![Star](https://img.shields.io/github/stars/OpenGVLab/InternVideo.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06942)
+
++ [VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation](https://arxiv.org/abs/2305.10874) (May, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10874) 
+
+
++ [Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions](https://arxiv.org/abs/2111.10337) (Nov, 2021)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.10337)
+
+
++ [Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval](https://openaccess.thecvf.com/content/ICCV2021/papers/Bain_Frozen_in_Time_A_Joint_Video_and_Image_Encoder_for_ICCV_2021_paper.pdf) (ICCV, 2021)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.00650)
+
++ [MSR-VTT: A Large Video Description Dataset for Bridging Video and Language](https://openaccess.thecvf.com/content_cvpr_2016/html/Xu_MSR-VTT_A_Large_CVPR_2016_paper.html) (CVPR, 2016)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content_cvpr_2016/html/Xu_MSR-VTT_A_Large_CVPR_2016_paper.html)
+
+### Category-level
+
++ [UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild](https://arxiv.org/abs/1212.0402) (Dec., 2012)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1212.0402) 
+
+
++ [First Order Motion Model for Image Animation](https://arxiv.org/abs/2003.00196) (NeurIPS, 2019)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2003.00196) 
+
++ [Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks](https://arxiv.org/abs/1709.07592) (CVPR, 2018)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1709.07592) 
+
+
 
 ## General Text-to-Video Generation
 
@@ -328,7 +367,12 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 
 
-<!-- ### UniModal Generation
+### UniModal Generation
+
++ [MovieFactory: Automatic Movie Creation from Text using LargeGenerative Models for Language and Images](https://arxiv.org/pdf/2306.07257.pdf) (Jun, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.07257.pdf) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.bilibili.com/video/BV1qj411Q76P/)
+
 + [Any-to-Any Generation via Composable Diffusion](https://arxiv.org/abs/2305.11846) (May, 2023)  
   [![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11846) 
@@ -338,7 +382,7 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
   [![Star](https://img.shields.io/github/stars/researchmm/MM-Diffusion.svg?style=social&label=Star)](https://github.com/researchmm/MM-Diffusion) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.09478)
 
- -->
+
 
 
 ## Video Editing 
@@ -410,6 +454,15 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
   [![Website](https://img.shields.io/badge/Website-9cf)](https://infusion-zero-edit.github.io/) 
 
 
+### Instruct-guided Video Editing
++ [InstructVid2Vid: Controllable Video Editing with Natural Language Instructions](https://arxiv.org/pdf/2305.12328.pdf) (May, 2023)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.12328.pdf) 
+
++ [Collaborative Score Distillation for Consistent Visual Synthesis](https://arxiv.org/pdf/2307.04787.pdf) (July, 2023)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2307.04787.pdf) 
+
+
+  
 
 
 ### Sound-guided Video Editing
@@ -421,6 +474,10 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 ### Multi-modal Control Editing Model
 
+
++ [VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet](https://arxiv.org/pdf/2307.14073.pdf) (July, 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2307.14073.pdf) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vcg-aigc.github.io/) 
 
 + [Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts](https://arxiv.org/abs/2305.08850) (May, 2023)   
   [![Star](https://img.shields.io/github/stars/Make-A-Protagonist/Make-A-Protagonist.svg?style=social&label=Star)](https://github.com/Make-A-Protagonist/Make-A-Protagonist) 
@@ -435,10 +492,18 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 ### Domain-specific Editing Model
 
-+ [Video Colorization with Pre-trained Text-to-Image Diffusion Models](https://arxiv.org/abs/2212.02802) (CVPR 2023)  
-  [![Star](https://img.shields.io/github/stars/man805/Diffusion-Video-Autoencoders.svg?style=social&label=Star)](https://github.com/man805/Diffusion-Video-Autoencoders) 
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.02802) 
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://diff-video-ae.github.io/) 
+
++ [Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions](https://arxiv.org/abs/2306.02903) (Jun, 2023)
+  [![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)](https://github.com/lsx0101/Instruct-Video2Avatar) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02903) 
+
+
+  
+
++ [Video Colorization with Pre-trained Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.01732) (Jun, 2023)  
+  [![Star](https://img.shields.io/github/stars/ColorDiffuser/ColorDiffuser.svg?style=social&label=Star)](https://github.com/ColorDiffuser/ColorDiffuser) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.01732) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://colordiffuser.github.io/) 
 
 
 
