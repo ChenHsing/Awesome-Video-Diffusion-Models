@@ -132,6 +132,10 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 ### Training-based 
 
++ [Dysen-VDM: Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models](https://arxiv.org/abs/2308.13812) (Aug., 2023)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.13812) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://haofei.vip/Dysen-VDM/)
+
 + [SimDA: Simple Diffusion Adapter for Efficient Video Generation](https://arxiv.org/abs/2308.09710) (Aug., 2023)   
   [![Star](https://img.shields.io/github/stars/ChenHsing/SimDA.svg?style=social&label=Star)](https://github.com/YingqingHe/LVDM) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.09710) 
