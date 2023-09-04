@@ -132,6 +132,11 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 ### Training-based 
 
+
++ [VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation](https://arxiv.org/abs/2308.13812) (Sep., 2023)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.00398) 
+
+
 + [Dysen-VDM: Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models](https://arxiv.org/abs/2308.13812) (Aug., 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.13812) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://haofei.vip/Dysen-VDM/)
