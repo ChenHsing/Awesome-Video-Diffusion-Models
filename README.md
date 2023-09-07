@@ -133,7 +133,7 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 ### Training-based 
 
 
-+ [VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation](https://arxiv.org/abs/2308.13812) (Sep., 2023)   
++ [VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation](https://arxiv.org/abs/2309.00398) (Sep., 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.00398) 
 
 
