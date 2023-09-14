@@ -26,7 +26,7 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 
 <p align="center">
-(Source: <a href="https://makeavideo.studio/">Make-A-Video</a>, <a href="https://chenhsing.github.io/PE-VDM/">PE-VDM</a>, <a href="https://research.nvidia.com/labs/dir/pyoco/">PYoCo</a>,
+(Source: <a href="https://makeavideo.studio/">Make-A-Video</a>, <a href="https://chenhsing.github.io/SimDA/">SimDA</a>, <a href="https://research.nvidia.com/labs/dir/pyoco/">PYoCo</a>,
 <a href="https://research.nvidia.com/labs/toronto-ai/VideoLDM/">Video LDM</a> and <a href="https://tuneavideo.github.io/">Tune-A-Video</a>)
 </p>
 
