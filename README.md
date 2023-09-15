@@ -46,6 +46,7 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 - - - [Category-specific](#category-specific)
 - - - [Personalized Video](#personalized-video)
 - - - [Human Video](#human-video-generation)
+- - - [Image2Video](#image2video)
 - - [Modality Control](#modality-control-video-generation)
 - - - [Pose-gudied](#pose-guided )
 - - - [Instruct-guided](#instruct-guided)
@@ -297,6 +298,14 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 + [Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://arxiv.org/abs/2303.13744) (CVPR 2023)   
   [![Star](https://img.shields.io/github/stars/nihaomiao/CVPR23_LFDM.svg?style=social&label=Star)](https://github.com/nihaomiao/CVPR23_LFDM) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13744)
+
+
+### Image2Video
++ [Generative Image Dynamics](https://arxiv.org/abs/2309.07906) (Sep., 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.07906)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://generative-dynamics.github.io/) 
+
+
 
 ## Modality-Control Video Generation
 
