@@ -128,6 +128,15 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1709.07592) 
 
 
+### Metric
+
+
++ [Measuring the Quality of Text-to-Video Model Outputs: Metrics and Dataset](https://arxiv.org/abs/2309.08009) (Sep., 2023)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.08009) 
+
+
+
+
 
 ## General Text-to-Video Generation
 
