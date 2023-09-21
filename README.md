@@ -455,6 +455,10 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 ### UniModal Generation
 
++ [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/abs/2309.05519) (Sep, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.05519) 
+
+
 + [MovieFactory: Automatic Movie Creation from Text using LargeGenerative Models for Language and Images](https://arxiv.org/pdf/2306.07257.pdf) (Jun, 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.07257.pdf) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.bilibili.com/video/BV1qj411Q76P/)
@@ -467,7 +471,6 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 + [Mm-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation](https://arxiv.org/abs/2212.09478) (CVPR 2023)   
   [![Star](https://img.shields.io/github/stars/researchmm/MM-Diffusion.svg?style=social&label=Star)](https://github.com/researchmm/MM-Diffusion) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.09478)
-
 
 
 
