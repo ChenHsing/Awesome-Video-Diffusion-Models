@@ -92,6 +92,8 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 ### Caption-level
 
+
+
 + [CelebV-Text: A Large-Scale Facial Text-Video Dataset](https://arxiv.org/pdf/2303.14717.pdf) (CVPR, 2023)  
   [![Star](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)](https://github.com/CelebV-Text/CelebV-Text)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.14717.pdf)
@@ -144,8 +146,14 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 
 
-+ [Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator](https://arxiv.org/abs/2309.14494) (Sep., 2023)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.14494) 
+
+
+
++ [Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2309.15818) (Sep., 2023)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15818) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Show-1/)
+
+
 
 
 
