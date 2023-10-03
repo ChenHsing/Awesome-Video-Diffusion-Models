@@ -581,6 +581,12 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 ### Training-free Editing Model
 
+
++ [Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models](https://arxiv.org/abs/2310.01107) (Oct., 2023)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.01107) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ground-a-video.github.io/)
+
+
 + [MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance](https://arxiv.org/pdf/2308.10079.pdf) (Aug., 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.10079.pdf) 
 
