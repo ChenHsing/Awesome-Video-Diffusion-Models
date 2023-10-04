@@ -146,7 +146,9 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 
 
-
++ [VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning](https://arxiv.org/abs/2309.15091) (Sep., 2023)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15091) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://videodirectorgpt.github.io/)
 
 
 + [Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2309.15818) (Sep., 2023)   
@@ -338,6 +340,14 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 
 ### Image2Video
+
+
+
++ [Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image](https://arxiv.org/abs/2308.10257) (MM, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.10257)
+
+
+
 + [Generative Image Dynamics](https://arxiv.org/abs/2309.07906) (Sep., 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.07906)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://generative-dynamics.github.io/) 
