@@ -68,19 +68,25 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 - [Video Understanding](#video-understanding)
 
 
-<!-- ### Open-source Toolboxes and Foundation Models 
+## Open-source Toolboxes and Foundation Models 
 
-+ [text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab)  
-  [![Star](https://img.shields.io/github/stars/camenduru/text-to-video-synthesis-colab.svg?style=social&label=Star)](https://github.com/camenduru/text-to-video-synthesis-colab)
+| Methods | Task | Github|
+|:-----:|:-----:|:-----:|
+| [GEN-2](https://app.runwayml.com/)   | T2V Generation & Editing | - |
+| [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)  | T2V Generation | [![Star](https://img.shields.io/github/stars/modelscope/modelscope.svg?style=social&label=Star)](https://github.com/modelscope/modelscope) |
+| [ZeroScope](https://easywithai.com/ai-video-generators/zeroscope/)  | T2V Generation | -|
+| [T2V Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab) | T2V Genetation |[![Star](https://img.shields.io/github/stars/camenduru/text-to-video-synthesis-colab.svg?style=social&label=Star)](https://github.com/camenduru/text-to-video-synthesis-colab)|
+| [VideoCraft](https://github.com/VideoCrafter/VideoCrafter) | T2V Genetation & Editing |[![Star](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg?style=social&label=Star)](https://github.com/VideoCrafter/VideoCrafter)|
+| [Diffusers (T2V synthesis)](https://huggingface.co/docs/diffusers/main/en/api/pipelines/text_to_video#texttovideo-synthesis) | T2V Genetation |-|
+| [AnimateDiff](https://github.com/guoyww/AnimateDiff) | Personalized T2V Genetation |[![Star](https://img.shields.io/github/stars/guoyww/AnimateDiff.svg?style=social&label=Star)](https://github.com/guoyww/AnimateDiff)|
+| [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) |  T2V Genetation |[![Star](https://img.shields.io/github/stars/Picsart-AI-Research/Text2Video-Zero.svg?style=social&label=Star)](https://github.com/Picsart-AI-Research/Text2Video-Zero)|
+| [HotShot-XL](https://github.com/hotshotco/Hotshot-XL) |  T2V Genetation |[![Star](https://img.shields.io/github/stars/hotshotco/Hotshot-XL.svg?style=social&label=Star)](https://github.com/hotshotco/Hotshot-XL)|
 
-+ [VideoCrafter: A Toolkit for Text-to-Video Generation and Editing](https://github.com/VideoCrafter/VideoCrafter)  
-  [![Star](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg?style=social&label=Star)](https://github.com/VideoCrafter/VideoCrafter)
 
-+ [ModelScope (Text-to-video synthesis)](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)  
-  [![Star](https://img.shields.io/github/stars/modelscope/modelscope.svg?style=social&label=Star)](https://github.com/modelscope/modelscope)
 
-+ [Diffusers (Text-to-video synthesis)](https://huggingface.co/docs/diffusers/main/en/api/pipelines/text_to_video#texttovideo-synthesis)  
-  [![Star](https://img.shields.io/github/stars/huggingface/diffusers.svg?style=social&label=Star)](https://github.com/huggingface/diffusers) -->
+
+
+
 
 ### 
 
