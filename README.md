@@ -82,7 +82,7 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 | [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) |  T2V Genetation |[![Star](https://img.shields.io/github/stars/Picsart-AI-Research/Text2Video-Zero.svg?style=social&label=Star)](https://github.com/Picsart-AI-Research/Text2Video-Zero)|
 | [HotShot-XL](https://github.com/hotshotco/Hotshot-XL) |  T2V Genetation |[![Star](https://img.shields.io/github/stars/hotshotco/Hotshot-XL.svg?style=social&label=Star)](https://github.com/hotshotco/Hotshot-XL)|
 | [Genmo](https://www.genmo.ai/) |  T2V Genetation |-|
-
+| [Fliki](https://fliki.ai/) | T2V Generation | -|
 
 
 
