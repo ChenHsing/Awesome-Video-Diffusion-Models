@@ -770,6 +770,7 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing](https://arxiv.org/abs/2310.05922) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05922) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://flatten-video-editing.github.io/) | Oct., 2023 |
 | [Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models](https://arxiv.org/abs/2310.01107) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.01107) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://ground-a-video.github.io/) | Oct., 2023 |
 | [MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance](https://arxiv.org/pdf/2308.10079.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.10079.pdf) | - | - | Aug., 2023 |
 | [EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints](https://arxiv.org/pdf/2308.10648.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.10648.pdf) | - | - | Aug., 2023 |
