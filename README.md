@@ -299,6 +299,7 @@ A paper list of recent diffusion models Text-to-video generation, text guidede v
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation](https://arxiv.org/abs/2310.07697) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07697) | [![Star](https://img.shields.io/github/stars/pengbo807/ConditionVideo.svg?style=social&label=Star)](https://github.com/pengbo807/ConditionVideo)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://pengbo807.github.io/conditionvideo-website/) | Oct, 2023 |
 |[LLM-grounded Video Diffusion Models](https://arxiv.org/abs/2309.17444) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17444) | - | - | Oct, 2023 |
 |[Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator](https://arxiv.org/abs/2309.14494) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.14494) | [![Star](https://img.shields.io/github/stars/SooLab/Free-Bloom.svg?style=social&label=Star)](https://github.com/SooLab/Free-Bloom) | - | NeurIPS, 2023 |
 |[DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis](https://arxiv.org/abs/2308.03463) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.03463) | - | - | Aug, 2023 |
