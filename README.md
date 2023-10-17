@@ -339,6 +339,7 @@
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [LOVECon: Text-driven Training-Free Long Video Editing with ControlNet](https://arxiv.org/abs/2310.09711)| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09711) | [![Star](https://img.shields.io/github/stars/zhijie-group/LOVECon.svg?style=social&label=Star)](https://github.com/zhijie-group/LOVECon)  | - | Oct., 2023 |
 | [FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing](https://arxiv.org/abs/2310.05922) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05922) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://flatten-video-editing.github.io/) | Oct., 2023 |
 | [Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models](https://arxiv.org/abs/2310.01107) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.01107) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://ground-a-video.github.io/) | Oct., 2023 |
 | [MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance](https://arxiv.org/pdf/2308.10079.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.10079.pdf) | - | - | Aug., 2023 |
@@ -424,6 +425,7 @@
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing](https://arxiv.org/abs/2310.10624)| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10624) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/DynVideo-E/) | Oct., 2023 |
 | [INVE: Interactive Neural Video Editing](https://arxiv.org/abs/2307.07663) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.07663) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://gabriel-huang.github.io/inve/) | Jul., 2023 |
 | [Shape-Aware Text-Driven Layered Video Editing](https://arxiv.org/abs/2301.13173) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.13173) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://text-video-edit.github.io/) | Jan., 2023 |
 
