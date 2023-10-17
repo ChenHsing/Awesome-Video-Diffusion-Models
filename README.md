@@ -1,6 +1,6 @@
 
 
-# [A Survey on Video Diffusion Models](#) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+# [A Survey on Video Diffusion Models](https://arxiv.org/abs/2310.10647) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10647) 
 
 
 <div style="text-align:center; font-size: 18px;">
@@ -456,3 +456,15 @@ If you have any suggestions or find our work helpful, feel free to contact us
 Homepage: [Zhen Xing](https://chenhsing.github.io)
 
 Email: zhenxingfd@gmail.com
+
+
+If you find our work useful, please consider citing it:
+
+```
+@article{vdmsurvey,
+  title={A Survey on Video Diffusion Models},
+  author={Zhen Xing and Qijun Feng and Haoran Chen and Qi Dai and Han Hu and Hang Xu and Zuxuan Wu and Yu-Gang Jiang}, 
+  journal={arXiv preprint arXiv:2310.10647},
+  year={2023}
+}
+```
