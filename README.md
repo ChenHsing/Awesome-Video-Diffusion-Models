@@ -14,14 +14,10 @@
     <a href="https://scholar.google.com/citations?user=7t12hVkAAAAJ&hl=en" >Zuxuan Wu,</a>
     <a href="https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en" >Yu-Gang Jiang </a>
      </p>
-    
-
 </div>
 
-<!-- <div style="text-align:center; font-size: 18px;">
-    <img src="https://img.shields.io/badge/arXiv-b31b1b.svg" /> 
-</div> -->
 
+- [News] The Chinese translation is available on [Zhihu](https://zhuanlan.zhihu.com/p/661860981). Special thanks to [Dai-Wenxun](https://github.com/Dai-Wenxun) for this.
 
 <p align="center">
 <img src="asset/fish.webp" width="160px"/>
