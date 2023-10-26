@@ -331,10 +331,12 @@
 
 
 
+
 ### Training-free Editing Model
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models](https://arxiv.org/abs/2310.16400)| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.16400) | - | - | Oct., 2023 |
 | [LOVECon: Text-driven Training-Free Long Video Editing with ControlNet](https://arxiv.org/abs/2310.09711)| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09711) | [![Star](https://img.shields.io/github/stars/zhijie-group/LOVECon.svg?style=social&label=Star)](https://github.com/zhijie-group/LOVECon)  | - | Oct., 2023 |
 | [FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing](https://arxiv.org/abs/2310.05922) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05922) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://flatten-video-editing.github.io/) | Oct., 2023 |
 | [Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models](https://arxiv.org/abs/2310.01107) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.01107) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://ground-a-video.github.io/) | Oct., 2023 |
