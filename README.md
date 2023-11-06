@@ -136,11 +136,11 @@
 |[Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks](https://arxiv.org/abs/1709.07592) |   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1709.07592) | -| -| CVPR,2018|
 
 
-
-### Metric
+### Metric and BenchMark
 
 | Title | arXiv | Github| WebSite | Pub. & Date
 |:-----:|:-----:|:-----:|:-----:|:-----:|
+|[FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation](https://arxiv.org/abs/2311.01813) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.01813)  |   - | - | NeurIPS, 2023 |
 |[CVPR 2023 Text Guided Video Editing Competition](https://arxiv.org/abs/2310.16003) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.16003)  |   - | - | Oct., 2023 |
 |[EvalCrafter: Benchmarking and Evaluating Large Video Generation Models](https://arxiv.org/abs/2310.11440) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11440)  |   - | - | Oct., 2023 |
 |[Measuring the Quality of Text-to-Video Model Outputs: Metrics and Dataset](https://arxiv.org/abs/2309.08009) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.08009)  |   - | - | Sep., 2023 |
