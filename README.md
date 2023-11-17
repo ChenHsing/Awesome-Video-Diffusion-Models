@@ -50,10 +50,13 @@
 - [News] The Chinese translation is available on [Zhihu](https://zhuanlan.zhihu.com/p/661860981). Special thanks to [Dai-Wenxun](https://github.com/Dai-Wenxun) for this.
 
 
+
+
 ## Open-source Toolboxes and Foundation Models 
 
 | Methods | Task | Github|
 |:-----:|:-----:|:-----:|
+| [EMU-Video](https://emu-video.metademolab.com/)   | T2V Generation | - |
 | [GEN-2](https://app.runwayml.com/)   | T2V Generation & Editing | - |
 | [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)  | T2V Generation | [![Star](https://img.shields.io/github/stars/modelscope/modelscope.svg?style=social&label=Star)](https://github.com/modelscope/modelscope) |
 | [ZeroScope](https://easywithai.com/ai-video-generators/zeroscope/)  | T2V Generation | -|
