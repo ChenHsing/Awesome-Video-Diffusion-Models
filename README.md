@@ -150,12 +150,16 @@
 
 
 
-## Text-to-Video Generation
 
+
+
+## Text-to-Video Generation
 ### Training-based 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+| [MoVideo: Motion-Aware Video Generation with Diffusion Models](https://arxiv.org/abs/2311.11325) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11325) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://jingyunliang.github.io/MoVideo/)| Nov, 2023
+| [Make Pixels Dance: High-Dynamic Video Generation](https://arxiv.org/abs/2311.10982) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.10982) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://makepixelsdance.github.io/)| Nov, 2023
 | [Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning](https://arxiv.org/abs/2311.10709) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.10709) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://emu-video.metademolab.com/)| Nov, 2023
 | [Optimal Noise pursuit for Augmenting Text-to-Video Generation](https://arxiv.org/abs/2311.00949) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00949) |-|-| Nov, 2023
 | [VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning](https://arxiv.org/abs/2311.00990) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00990) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://videodreamer23.github.io/) | Nov, 2023
@@ -367,10 +371,15 @@
 |[Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising](https://arxiv.org/abs/2305.18264) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18264) | [![Star](https://img.shields.io/github/stars/G-U-N/Gen-L-Video.svg?style=social&label=Star)](https://github.com/G-U-N/Gen-L-Video) | [![Website](https://img.shields.io/badge/Website-9cf)](https://g-u-n.github.io/projects/gen-long-video/index.html) | May, 2023 |
 
 
+
+
+
+
 ### One-shot Editing Model
 
 | Title | arXiv | Github | Website | Pub. & Date |
 |---|---|---|---|---|
+| [Cut-and-Paste: Subject-Driven Video Editing with Attention Control](https://arxiv.org/abs/2311.11697) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11697) | - | - | Nov, 2023 |
 | [StableVideo: Text-driven Consistency-aware Diffusion Video Editing](https://arxiv.org/abs/2308.09592) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.09592) | [![Star](https://img.shields.io/github/stars/rese1f/StableVideo?style=social)](https://github.com/rese1f/StableVideo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://rese1f.github.io/StableVideo) | ICCV, 2023 |
 | [Shape-aware Text-driven Layered Video Editing](https://arxiv.org/pdf/2301.13173.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2301.13173.pdf) | - | - | CVPR, 2023 |
 | [SAVE: Spectral-Shift-Aware Adaptation of Image Diffusion Models for Text-guided Video Editing](https://arxiv.org/pdf/2305.18670.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.18670.pdf) | [![Star](https://img.shields.io/github/stars/nazmul-karim170/SAVE-Text2Video?style=social)](https://github.com/nazmul-karim170/SAVE-Text2Video) | - | May, 2023 |
