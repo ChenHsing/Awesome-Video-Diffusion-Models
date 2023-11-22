@@ -56,6 +56,7 @@
 
 | Methods | Task | Github|
 |:-----:|:-----:|:-----:|
+| [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)  | T2V Generation | -|
 | [EMU-Video](https://emu-video.metademolab.com/)   | T2V Generation | - |
 | [GEN-2](https://app.runwayml.com/)   | T2V Generation & Editing | - |
 | [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)  | T2V Generation | [![Star](https://img.shields.io/github/stars/modelscope/modelscope.svg?style=social&label=Star)](https://github.com/modelscope/modelscope) |
@@ -202,6 +203,7 @@
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[🏀GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://arxiv.org/abs/2311.12631) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12631) | [![Star](https://img.shields.io/github/stars/jiaxilv/GPT4Motion.svg?style=social&label=Star)](https://github.com//jiaxilv/GPT4Motion)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://gpt4motion.github.io/) | Nov, 2023 |
 |[FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling](https://arxiv.org/abs/2310.15169) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.15169) | [![Star](https://img.shields.io/github/stars/arthur-qiu/LongerCrafter.svg?style=social&label=Star)](https://github.com/arthur-qiu/LongerCrafter)  | [![Website](https://img.shields.io/badge/Website-9cf)](http://haonanqiu.com/projects/FreeNoise.html) | Oct, 2023 |
 |[ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation](https://arxiv.org/abs/2310.07697) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07697) | [![Star](https://img.shields.io/github/stars/pengbo807/ConditionVideo.svg?style=social&label=Star)](https://github.com/pengbo807/ConditionVideo)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://pengbo807.github.io/conditionvideo-website/) | Oct, 2023 |
 |[LLM-grounded Video Diffusion Models](https://arxiv.org/abs/2309.17444) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17444) | - | - | Oct, 2023 |
@@ -221,6 +223,7 @@
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer](https://arxiv.org/abs/2311.12052) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12052) | [![Star](https://img.shields.io/github/stars/Boese0601/MagicDance.svg?style=social&label=Star)](https://github.com/Boese0601/MagicDance) | [![Website](https://img.shields.io/badge/Website-9cf)](https://boese0601.github.io/magicdance/) | Nov., 2023 |
 |[DisCo: Disentangled Control for Referring Human Dance Generation in Real World](https://arxiv.org/abs/2307.00040) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00040) | [![Star](https://img.shields.io/github/stars/Wangt-CN/DisCo.svg?style=social&label=Star)](https://github.com/Wangt-CN/DisCo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://disco-dance.github.io/) | Jul., 2023 |
 |[Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model](https://arxiv.org/pdf/2308.07749.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.07749.pdf) | - | - | Aug., 2023 |
 |[DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion](https://arxiv.org/abs/2304.06025) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06025) | [![Star](https://img.shields.io/github/stars/johannakarras/DreamPose.svg?style=social&label=Star)](https://github.com/johannakarras/DreamPose) | [![Website](https://img.shields.io/badge/Website-9cf)](https://grail.cs.washington.edu/projects/dreampose/) | Apr., 2023 |
@@ -392,12 +395,6 @@
 
 
 
-
-
-
-
-
-
 ### Instruct-guided Video Editing
 
 | Title | arXiv | Github | Website | Pub. Date |
@@ -464,7 +461,7 @@
 | [Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection](https://arxiv.org/abs/2307.07205) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.07205) | - | - | ICCV, 2023 |
 | [Diffusion Action Segmentation](https://arxiv.org/pdf/2303.17959.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.17959.pdf) | - | - | Mar., 2023 |
 | [DiffTAD: Temporal Action Detection with Proposal Denoising Diffusion](https://arxiv.org/abs/2303.14863) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14863) |[![Star](https://img.shields.io/github/stars/sauradip/DiffusionTAD.svg?style=social&label=Star)](https://github.com/sauradip/DiffusionTAD)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://arxiv.org/abs/2303.14863) | Mar., 2023 |
-| [DiffusionRet: Generative Text-Video Retrieval with Diffusion Model](https://arxiv.org/abs/2303.09867) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09867) | - | - | Mar., 2023 |
+| [DiffusionRet: Generative Text-Video Retrieval with Diffusion Model](https://arxiv.org/abs/2303.09867) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09867) | [![Star](https://img.shields.io/github/stars/jpthu17/DiffusionRet.svg?style=social&label=Star)](https://github.com/jpthu17/DiffusionRet) | - | ICCV, 2023 |
 | [MomentDiff: Generative Video Moment Retrieval from Random to Real](https://arxiv.org/pdf/2307.02869.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2307.02869.pdf) |[![Star](https://img.shields.io/github/stars/IMCCretrieval/MomentDiff.svg?style=social&label=Star)](https://github.com/IMCCretrieval/MomentDiff) | [![Website](https://img.shields.io/badge/Website-9cf)](https://arxiv.org/pdf/2307.02869.pdf) | Jul., 2023 |
 | [Refined Semantic Enhancement Towards Frequency Diffusion for Video Captioning](https://arxiv.org/abs/2211.15076) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15076) | - | - | Nov., 2022 |
 | [A Generalist Framework for Panoptic Segmentation of Images and Videos](https://arxiv.org/abs/2210.06366) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.06366) | [![Star](https://img.shields.io/github/stars/google-research/pix2seq.svg?style=social&label=Star)](https://github.com/google-research/pix2seq) | [![Website](https://img.shields.io/badge/Website-9cf)](https://arxiv.org/abs/2210.06366) | Oct., 2022 |
