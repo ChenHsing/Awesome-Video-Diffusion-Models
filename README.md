@@ -257,6 +257,7 @@
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation](https://arxiv.org/abs/2311.17117) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17117) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/animate-anyone/) | Sep., 2023 |
 |[Decouple Content and Motion for Conditional Image-to-Video Generation](https://arxiv.org/abs/2311.14294) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14294) | - | - | Nov, 2023 |
 |[I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.04145) | - | - | Nov, 2023 |
 |[Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image](https://arxiv.org/abs/2308.10257) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.10257) | - | - | MM, 2023 |
@@ -390,11 +391,11 @@
 
 
 
-
 ### One-shot Editing Model
 
 | Title | arXiv | Github | Website | Pub. & Date |
 |---|---|---|---|---|
+| [Smooth Video Synthesis with Noise Constraints on Diffusion Models for One-shot Video Tuning](https://arxiv.org/abs/2311.17536) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17536) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/SPengLiang/SmoothVideo) | Nov., 2023 |
 | [Cut-and-Paste: Subject-Driven Video Editing with Attention Control](https://arxiv.org/abs/2311.11697) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11697) | - | - | Nov, 2023 |
 | [StableVideo: Text-driven Consistency-aware Diffusion Video Editing](https://arxiv.org/abs/2308.09592) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.09592) | [![Star](https://img.shields.io/github/stars/rese1f/StableVideo?style=social)](https://github.com/rese1f/StableVideo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://rese1f.github.io/StableVideo) | ICCV, 2023 |
 | [Shape-aware Text-driven Layered Video Editing](https://arxiv.org/pdf/2301.13173.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2301.13173.pdf) | - | - | CVPR, 2023 |
