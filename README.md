@@ -27,7 +27,7 @@
 
 
 <p align="center">
-<img src="asset/fly.gif" width="240px"/>  
+<img src="asset/svd.gif" width="240px"/>  
 <img src="asset/fly3.gif" width="240px"/>  
 </p>
 
@@ -41,7 +41,7 @@
 
 
 <p align="center">
-(Source: <a href="https://makeavideo.studio/">Make-A-Video</a>, <a href="https://chenhsing.github.io/SimDA/">SimDA</a>, <a href="https://research.nvidia.com/labs/dir/pyoco/">PYoCo</a>,
+(Source: <a href="https://makeavideo.studio/">Make-A-Video</a>, <a href="https://chenhsing.github.io/SimDA/">SimDA</a>, <a href="https://research.nvidia.com/labs/dir/pyoco/">PYoCo</a>, <a href="https://img.shields.io/badge/Website-9cf"> SVD </a>,
 <a href="https://research.nvidia.com/labs/toronto-ai/VideoLDM/">Video LDM</a> and <a href="https://tuneavideo.github.io/">Tune-A-Video</a>)
 </p>
 
