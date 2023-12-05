@@ -51,12 +51,13 @@
 
 
 
-
 ## Open-source Toolboxes and Foundation Models 
 
 | Methods | Task | Github|
 |:-----:|:-----:|:-----:|
 | [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)  | T2V Generation | [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models)|
+| [NeverEnds](https://neverends.life)   | T2V Generation | - |
+| [Pika](https://pika.art)   | T2V Generation | - |
 | [EMU-Video](https://emu-video.metademolab.com/)   | T2V Generation | - |
 | [GEN-2](https://app.runwayml.com/)   | T2V Generation & Editing | - |
 | [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)  | T2V Generation | [![Star](https://img.shields.io/github/stars/modelscope/modelscope.svg?style=social&label=Star)](https://github.com/modelscope/modelscope) |
@@ -237,10 +238,16 @@
 |[Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos](https://arxiv.org/abs/2304.01186) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186) | [![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)](https://github.com/mayuelala/FollowYourPose) | [![Website](https://img.shields.io/badge/Website-9cf)](https://follow-your-pose.github.io/) | Apr., 2023 |
 
 
+
+
+
+
+
 ### Motion-guided  Video Generation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models](https://arxiv.org/abs/2312.00845) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00845) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://video-motion-customization.github.io/) | Nov., 2023 |
 |[Motion-Conditioned Diffusion Model for Controllable Video Synthesis](https://arxiv.org/abs/2304.14404) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14404) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://tsaishien-chen.github.io/MCDiff/) | Apr., 2023 |
 |[DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory](https://arxiv.org/abs/2308.08089) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08089) | - | - | Aug., 2023 |
 
@@ -324,14 +331,12 @@
 
 ### Video Enhancement and Restoration
 
-
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
+|[Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution](https://arxiv.org/abs/2312.00853) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00853) | [![Star](https://img.shields.io/github/stars/IanYeung/MGLD-VSR.svg?style=social&label=Star)](https://github.com/IanYeung/MGLD-VSR) | - | CVPR 2023 |
 |[LDMVFI: Video Frame Interpolation with Latent Diffusion Models](https://arxiv.org/abs/2303.09508) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09508) | - | Mar., 2023 |
 |[CaDM: Codec-aware Diffusion Modeling for Neural-enhanced Video Streaming](https://arxiv.org/abs/2211.08428) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.08428) | - | Nov., 2022 |
 | [Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos](https://arxiv.org/pdf/2305.16301.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.16301.pdf) | - | - | May., 2023 |
-
-
 
 
 
@@ -459,6 +464,7 @@
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models](https://arxiv.org/abs/2312.01409) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01409) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://primecai.github.io/generative_rendering) | CVPR 2023 |
 | [Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator](https://arxiv.org/pdf/2305.02594.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.02594.pdf) | - | - | May, 2023 |
 | [DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis](https://arxiv.org/pdf/2308.03463.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.03463.pdf) | - | - | Aug, 2023 |
 | [Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer](https://arxiv.org/abs/2305.05464) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05464) | [![Star](https://img.shields.io/github/stars/haha-lisa/Style-A-Video.svg?style=social&label=Star)](https://github.com/haha-lisa/Style-A-Video) | - | May, 2023 |
@@ -479,10 +485,13 @@
 
 
 
+
+
 ### Video Understanding
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models](https://arxiv.org/abs/2312.01305) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01305) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://jgkwak95.github.io/ViVid-1-to-3/) | Nov., 2023 |
 | [Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models](https://arxiv.org/abs/2311.15908) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15908) | [![Star](https://img.shields.io/github/stars/claudiom4sir/StableVSR.svg?style=social&label=Star)](https://github.com/claudiom4sir/StableVSR) | - | Nov., 2023 |
 | [Flow-Guided Diffusion for Video Inpainting](https://arxiv.org/abs/2311.15368) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15368) | [![Star](https://img.shields.io/github/stars/NevSNev/FGDVI.svg?style=social&label=Star)](https://github.com/NevSNev/FGDVI) | - | Nov., 2023 |
 | [Breathing Life Into Sketches Using Text-to-Video Priors](https://arxiv.org/abs/2311.13608) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.13608) | - | - | Nov., 2023 |
