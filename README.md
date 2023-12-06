@@ -265,7 +265,8 @@
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
-|[VideoBooth: Diffusion-based Video Generation with Image Prompts](https://arxiv.org/abs/2312.00777) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00777) | [![Star](https://img.shields.io/github/stars/Vchitect/VideoBooth.svg?style=social&label=Star)](https://github.com/Vchitect/VideoBooth) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VideoBooth-project/) | Jul., 2023 |
+|[LivePhoto: Real Image Animation with Text-guided Motion Control](https://arxiv.org/abs/2312.02928) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.02928) | [![Star](https://img.shields.io/github/stars/XavierCHEN34/LivePhoto.svg?style=social&label=Star)](https://github.com/XavierCHEN34/LivePhoto) | [![Website](https://img.shields.io/badge/Website-9cf)](https://xavierchen34.github.io/LivePhoto-Page/) | Nov., 2023 |
+|[VideoBooth: Diffusion-based Video Generation with Image Prompts](https://arxiv.org/abs/2312.00777) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00777) | [![Star](https://img.shields.io/github/stars/Vchitect/VideoBooth.svg?style=social&label=Star)](https://github.com/Vchitect/VideoBooth) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VideoBooth-project/) | Nov., 2023 |
 |[Decouple Content and Motion for Conditional Image-to-Video Generation](https://arxiv.org/abs/2311.14294) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14294) | - | - | Nov, 2023 |
 |[I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.04145) | - | - | Nov, 2023 |
 |[Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image](https://arxiv.org/abs/2308.10257) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.10257) | - | - | MM, 2023 |
@@ -296,6 +297,7 @@
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[Fine-grained Controllable Video Generation via Object Appearance and Context](https://arxiv.org/abs/2312.02919) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.02919) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://hhsinping.github.io/factor/) | Nov., 2023 |
 |[GPT4Video: A Unified Multimodal Large Language Model for Instruction-Followed Understanding and Safety-Aware Generation](https://arxiv.org/abs/2311.16511) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16511) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://gpt4video.github.io/) | Nov., 2023 |
 |[Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2311.16813) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16813) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://panacea-ad.github.io/) | Nov., 2023 |
 |[SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models](https://arxiv.org/abs/2311.16933) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16933) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://guoyww.github.io/projects/SparseCtrl/) | Nov., 2023 |
@@ -354,6 +356,7 @@
 
 
 
+
 ## Video Editing 
 
 ### General Editing Model
@@ -364,6 +367,7 @@
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence](https://arxiv.org/abs/2312.02087) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.02087) |  - | [![Website](https://img.shields.io/badge/Website-9cf)](https://videoswap.github.io/) | Nov, 2023 |
 | [VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models](https://arxiv.org/abs/2311.18837) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18837) |  [![Star](https://img.shields.io/github/stars/ChenHsing/VIDiff.svg?style=social&label=Star)](https://github.com/ChenHsing/VIDiff) | [![Website](https://img.shields.io/badge/Website-9cf)](https://chenhsing.github.io/VIDiff/) | Nov, 2023 |
 | [Motion-Conditioned Image Animation for Video Editing](https://arxiv.org/abs/2311.18827) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18827) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://facebookresearch.github.io/MoCA/) | Nov, 2023 |
 | [MagicProp: Diffusion-based Video Editing via Motion-aware Appearance Propagation](https://arxiv.org/abs/2309.00908) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.00908) | - | - | Sep, 2023 |
@@ -375,10 +379,13 @@
 
 
 
+
+
 ### Training-free Editing Model
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models](https://arxiv.org/abs/2312.02813) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.02813) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://bivdiff.github.io/) | Nov., 2023 |
 | [Highly Detailed and Temporal Consistent Video Stylization via Synchronized Multi-Frame Diffusion](https://arxiv.org/abs/2311.14343)| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14343) | -  | - | Nov., 2023 |
 | [FastBlend: a Powerful Model-Free Toolkit Making Video Stylization Easier](https://arxiv.org/abs/2311.09265)| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.09265) | [![Star](https://img.shields.io/github/stars/Artiprocher/sd-webui-fastblend.svg?style=social&label=Star)](https://github.com/Artiprocher/sd-webui-fastblend)  | - | Oct., 2023 |
 | [LatentWarp: Consistent Diffusion Latents for Zero-Shot Video-to-Video Translation](https://arxiv.org/abs/2311.00353) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00353) | - | - | Nov., 2023 |
@@ -422,7 +429,6 @@
 
 
 ### Instruct-guided Video Editing
-
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
 | [VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models](https://arxiv.org/abs/2311.18837) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18837) |  [![Star](https://img.shields.io/github/stars/ChenHsing/VIDiff.svg?style=social&label=Star)](https://github.com/ChenHsing/VIDiff) | [![Website](https://img.shields.io/badge/Website-9cf)](https://chenhsing.github.io/VIDiff/) | Nov, 2023 |
@@ -430,9 +436,15 @@
 | [InstructVid2Vid: Controllable Video Editing with Natural Language Instructions](https://arxiv.org/pdf/2305.12328.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.12328.pdf) | - | - | May, 2023 |
 | [Collaborative Score Distillation for Consistent Visual Synthesis](https://arxiv.org/pdf/2307.04787.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2307.04787.pdf) | - | - | July, 2023 |
 
+
+
+
+
 ### Motion-guided Video Editing
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [Drag-A-Video: Non-rigid Video Editing with Point-based Interaction](https://arxiv.org/abs/2312.02936) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.02936) |- | [![Website](https://img.shields.io/badge/Website-9cf)](https://drag-a-video.github.io/) | Nov, 2023 |
+| [DragVideo: Interactive Drag-style Video Editing](https://arxiv.org/abs/2312.02216) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.02216) | [![Star](https://img.shields.io/github/stars/RickySkywalker/DragVideo-Official.svg?style=social&label=Star)](https://github.com/RickySkywalker/DragVideo-Official) | -| Nov, 2023 |
 | [VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet](https://arxiv.org/pdf/2307.14073.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2307.14073.pdf) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://vcg-aigc.github.io/) | July, 2023 |
 
 
@@ -447,10 +459,13 @@
 
 
 
+
+
 ### Multi-modal Control Editing Model
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [SAVE: Protagonist Diversification with Structure Agnostic Video Editing](https://arxiv.org/abs/2312.02503) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.02503) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://ldynx.github.io/SAVE/) | Nov, 2023 |
 | [MotionZero:Exploiting Motion Priors for Zero-shot Text-to-Video Generation](https://arxiv.org/abs/2311.16635) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16635) | - | - | May, 2023 |
 | [CCEdit: Creative and Controllable Video Editing via Diffusion Models](https://arxiv.org/abs/2309.16496) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.16496) | - | - | Sep, 2023 |
 | [Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts](https://arxiv.org/abs/2305.08850) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.08850) | [![Star](https://img.shields.io/github/stars/Make-A-Protagonist/Make-A-Protagonist.svg?style=social&label=Star)](https://github.com/Make-A-Protagonist/Make-A-Protagonist) | [![Website](https://img.shields.io/badge/Website-9cf)](https://make-a-protagonist.github.io/) | May, 2023 |
