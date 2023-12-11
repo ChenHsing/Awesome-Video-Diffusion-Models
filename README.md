@@ -232,12 +232,15 @@
 
 
 
+
+
 ## Video Generation with other conditions
 
 ### Pose-guided Video Generation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models](https://arxiv.org/abs/2312.05107) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.05107) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamoving.github.io/dreamoving/) | Dec., 2023 |
 |[MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model](https://arxiv.org/abs/2311.16498) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16498) | [![Star](https://img.shields.io/github/stars/magic-research/magic-animate.svg?style=social&label=Star)](https://github.com/magic-research/magic-animate) | [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/magicanimate/) | Nov., 2023 |
 |[Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation](https://arxiv.org/abs/2311.17117) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17117) | [![Star](https://img.shields.io/github/stars/HumanAIGC/AnimateAnyone.svg?style=social&label=Star)](https://github.com/HumanAIGC/AnimateAnyone) | [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/animate-anyone/) | Nov., 2023 |
 |[MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer](https://arxiv.org/abs/2311.12052) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12052) | [![Star](https://img.shields.io/github/stars/Boese0601/MagicDance.svg?style=social&label=Star)](https://github.com/Boese0601/MagicDance) | [![Website](https://img.shields.io/badge/Website-9cf)](https://boese0601.github.io/magicdance/) | Nov., 2023 |
@@ -249,11 +252,11 @@
 
 
 
-
 ### Motion-guided  Video Generation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[Customizing Motion in Text-to-Video Diffusion Models](https://arxiv.org/abs/2312.04966) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04966) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://joaanna.github.io/customizing_motion/) | Dec., 2023 |
 |[VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models](https://arxiv.org/abs/2312.00845) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00845) |  [![Star](https://img.shields.io/github/stars/HyeonHo99/Video-Motion-Customization.svg?style=social&label=Star)](https://github.com/HyeonHo99/Video-Motion-Customization) | [![Website](https://img.shields.io/badge/Website-9cf)](https://video-motion-customization.github.io/) | Nov., 2023 |
 |[Motion-Conditioned Diffusion Model for Controllable Video Synthesis](https://arxiv.org/abs/2304.14404) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14404) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://tsaishien-chen.github.io/MCDiff/) | Apr., 2023 |
 |[DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory](https://arxiv.org/abs/2308.08089) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08089) | - | - | Aug., 2023 |
