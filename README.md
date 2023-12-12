@@ -46,7 +46,7 @@
 </p>
 
 
-- [News] <span style="color:red;">We are planning to update the survey soon to encompass the latest work. If you have any suggestions, please feel free to contact us.</span>
+- [News] <span style="color:red;"> **We are planning to update the survey soon to encompass the latest work. If you have any suggestions, please feel free to contact us.**</span>
 - [News] The Chinese translation is available on [Zhihu](https://zhuanlan.zhihu.com/p/661860981). Special thanks to [Dai-Wenxun](https://github.com/Dai-Wenxun) for this.
 
 
