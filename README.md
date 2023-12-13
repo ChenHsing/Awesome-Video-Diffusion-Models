@@ -210,13 +210,11 @@
 
 
 
-
-
-
 ### Training-free
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[FreeInit: Bridging Initialization Gap in Video Diffusion Models](https://arxiv.org/abs/2312.07537) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.07537) | [![Star](https://img.shields.io/github/stars/TianxingWu/FreeInit.svg?style=social&label=Star)](https://github.com/TianxingWu/FreeInit)  | - | Dec, 2023 |
 |[MTVG : Multi-text Video Generation with Text-to-Video Models](https://arxiv.org/abs/2312.04086) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04086) | -  | [![Website](https://img.shields.io/badge/Website-9cf)](https://kuai-lab.github.io/mtvg-page/) | Dec, 2023 |
 |[F3-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis](https://arxiv.org/abs/2312.03459) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03459) | -  | - | Nov, 2023 |
 |[AdaDiff: Adaptive Step Selection for Fast Diffusion](https://arxiv.org/abs/2311.14768) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14768) | -  | - | Nov, 2023 |
@@ -309,10 +307,13 @@
 
 
 
+
+
 ### Multi-modal guided Video Generation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[PEEKABOO: Interactive Video Generation via Masked-Diffusion](https://arxiv.org/abs/2312.07509) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.07509) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://jinga-lala.github.io/projects/Peekaboo/) | Dec., 2023 |
 |[CMMD: Contrastive Multi-Modal Diffusion for Video-Audio Conditional Modeling](https://arxiv.org/abs/2312.05412) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.05412) | - | - | Dec., 2023 |
 |[Fine-grained Controllable Video Generation via Object Appearance and Context](https://arxiv.org/abs/2312.02919) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.02919) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://hhsinping.github.io/factor/) | Nov., 2023 |
 |[GPT4Video: A Unified Multimodal Large Language Model for Instruction-Followed Understanding and Safety-Aware Generation](https://arxiv.org/abs/2311.16511) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16511) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://gpt4video.github.io/) | Nov., 2023 |
@@ -392,8 +393,11 @@
 
 
 
+
+
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [Neutral Editing Framework for Diffusion-based Video Editing](https://arxiv.org/abs/2312.06708) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.06708) |  - | [![Website](https://img.shields.io/badge/Website-9cf)](https://neuedit.github.io/) | Dec, 2023 |
 | [VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence](https://arxiv.org/abs/2312.02087) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.02087) |  - | [![Website](https://img.shields.io/badge/Website-9cf)](https://videoswap.github.io/) | Nov, 2023 |
 | [VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models](https://arxiv.org/abs/2311.18837) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18837) |  [![Star](https://img.shields.io/github/stars/ChenHsing/VIDiff.svg?style=social&label=Star)](https://github.com/ChenHsing/VIDiff) | [![Website](https://img.shields.io/badge/Website-9cf)](https://chenhsing.github.io/VIDiff/) | Nov, 2023 |
 | [Motion-Conditioned Image Animation for Video Editing](https://arxiv.org/abs/2311.18827) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18827) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://facebookresearch.github.io/MoCA/) | Nov, 2023 |
