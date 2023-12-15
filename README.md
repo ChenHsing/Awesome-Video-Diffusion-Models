@@ -156,11 +156,13 @@
 
 
 
+
 ## Text-to-Video Generation
 ### Training-based 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+| [VideoLCM: Video Latent Consistency Model](https://arxiv.org/abs/2312.09109) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09109) |-|- | Dec, 2023
 | [Photorealistic Video Generation with Diffusion Models](https://arxiv.org/abs/2312.06662) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.06662) |-|- | Dec, 2023
 | [Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation](https://arxiv.org/abs/2312.04483) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04483) |[![Star](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl.svg?style=social&label=Star)](https://github.com/damo-vilab/i2vgen-xl)|[![Website](https://img.shields.io/badge/Website-9cf)](https://higen-t2v.github.io/) | Dec, 2023
 | [Delving Deep into Diffusion Transformers for Image and Video Generation](https://arxiv.org/abs/2312.04557) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04557) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://www.shoufachen.com/gentron_website/) | Dec, 2023
@@ -465,9 +467,12 @@
 
 
 
+
+
 ### Instruct-guided Video Editing
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [Neural Video Fields Editing](https://arxiv.org/abs/2312.08882) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08882) |  [![Star](https://img.shields.io/github/stars/Ysz2022/NVEdit.svg?style=social&label=Star)](https://github.com/Ysz2022/NVEdit) | [![Website](https://img.shields.io/badge/Website-9cf)](https://nvedit.github.io/) | Dec, 2023 |
 | [VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models](https://arxiv.org/abs/2311.18837) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18837) |  [![Star](https://img.shields.io/github/stars/ChenHsing/VIDiff.svg?style=social&label=Star)](https://github.com/ChenHsing/VIDiff) | [![Website](https://img.shields.io/badge/Website-9cf)](https://chenhsing.github.io/VIDiff/) | Nov, 2023 |
 | [Consistent Video-to-Video Transfer Using Synthetic Dataset](https://arxiv.org/abs/2311.00213) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00213) | - | - | Nov., 2023 |
 | [InstructVid2Vid: Controllable Video Editing with Natural Language Instructions](https://arxiv.org/pdf/2305.12328.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.12328.pdf) | - | - | May, 2023 |
