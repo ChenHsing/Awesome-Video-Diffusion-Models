@@ -158,13 +158,12 @@
 
 
 
-
-
 ## Text-to-Video Generation
 ### Training-based 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+| [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12490) |[![Star](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl.svg?style=social&label=Star)](https://github.com/damo-vilab/i2vgen-xl)|[![Website](https://img.shields.io/badge/Website-9cf)](https://instructvideo.github.io/) | Dec, 2023
 | [VideoLCM: Video Latent Consistency Model](https://arxiv.org/abs/2312.09109) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09109) |-|- | Dec, 2023
 | [Photorealistic Video Generation with Diffusion Models](https://arxiv.org/abs/2312.06662) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.06662) |-|- | Dec, 2023
 | [Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation](https://arxiv.org/abs/2312.04483) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04483) |[![Star](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl.svg?style=social&label=Star)](https://github.com/damo-vilab/i2vgen-xl)|[![Website](https://img.shields.io/badge/Website-9cf)](https://higen-t2v.github.io/) | Dec, 2023
@@ -400,8 +399,11 @@
 
 
 
+
+
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [MaskINT: Video Editing via Interpolative Non-autoregressive Masked Transformers](https://arxiv.org/abs/2312.12468) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12468) |  - | [![Website](https://img.shields.io/badge/Website-9cf)](https://maskint.github.io/) | Dec, 2023 |
 | [Neutral Editing Framework for Diffusion-based Video Editing](https://arxiv.org/abs/2312.06708) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.06708) |  - | [![Website](https://img.shields.io/badge/Website-9cf)](https://neuedit.github.io/) | Dec, 2023 |
 | [VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence](https://arxiv.org/abs/2312.02087) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.02087) |  - | [![Website](https://img.shields.io/badge/Website-9cf)](https://videoswap.github.io/) | Nov, 2023 |
 | [VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models](https://arxiv.org/abs/2311.18837) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18837) |  [![Star](https://img.shields.io/github/stars/ChenHsing/VIDiff.svg?style=social&label=Star)](https://github.com/ChenHsing/VIDiff) | [![Website](https://img.shields.io/badge/Website-9cf)](https://chenhsing.github.io/VIDiff/) | Nov, 2023 |
@@ -417,10 +419,12 @@
 
 
 
+
 ### Training-free Editing Model
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+|[RealCraft: Attention Control as A Solution for Zero-shot Long Video Editing](https://arxiv.org/abs/2312.12635) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12635) | - | - | Dec, 2023 |
 |[VidToMe: Video Token Merging for Zero-Shot Video Editing](https://arxiv.org/abs/2312.10656) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.10656) | [![Star](https://img.shields.io/github/stars/lixirui142/VidToMe.svg?style=social&label=Star)](https://github.com/lixirui142/VidToMe) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vidtome-diffusion.github.io/) | Dec, 2023 |
 |[A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing](https://arxiv.org/abs/2312.05856) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.05856) | [![Star](https://img.shields.io/github/stars/STEM-Inv/stem-inv.svg?style=social&label=Star)](https://github.com/STEM-Inv/stem-inv) | [![Website](https://img.shields.io/badge/Website-9cf)](https://stem-inv.github.io/page/) | Dec, 2023 |
 |[AnimateZero: Video Diffusion Models are Zero-Shot Image Animators](https://arxiv.org/abs/2312.03793) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03793) | [![Star](https://img.shields.io/github/stars/vvictoryuki/AnimateZero.svg?style=social&label=Star)](https://github.com/vvictoryuki/AnimateZero) | - | Dec, 2023 |
