@@ -277,10 +277,13 @@
 
 
 
+
+
 ### Image-guided Video Generation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models](https://arxiv.org/abs/2312.13964) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13964) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://pi-animator.github.io/) | Nov., 2023 |
 |[DreamVideo: High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance](https://arxiv.org/abs/2312.03018) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03018) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://anonymous0769.github.io/DreamVideo/) | Nov., 2023 |
 |[LivePhoto: Real Image Animation with Text-guided Motion Control](https://arxiv.org/abs/2312.02928) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.02928) | [![Star](https://img.shields.io/github/stars/XavierCHEN34/LivePhoto.svg?style=social&label=Star)](https://github.com/XavierCHEN34/LivePhoto) | [![Website](https://img.shields.io/badge/Website-9cf)](https://xavierchen34.github.io/LivePhoto-Page/) | Nov., 2023 |
 |[VideoBooth: Diffusion-based Video Generation with Image Prompts](https://arxiv.org/abs/2312.00777) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00777) | [![Star](https://img.shields.io/github/stars/Vchitect/VideoBooth.svg?style=social&label=Star)](https://github.com/Vchitect/VideoBooth) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VideoBooth-project/) | Nov., 2023 |
@@ -476,9 +479,12 @@
 
 
 
+
+
 ### Instruct-guided Video Editing
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [Fairy: Fast Parallellized Instruction-Guided Video-to-Video Synthesis](https://arxiv.org/abs/2312.13834) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13834) |  - | [![Website](https://img.shields.io/badge/Website-9cf)](https://fairy-video2video.github.io/) | Dec, 2023 |
 | [Neural Video Fields Editing](https://arxiv.org/abs/2312.08882) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08882) |  [![Star](https://img.shields.io/github/stars/Ysz2022/NVEdit.svg?style=social&label=Star)](https://github.com/Ysz2022/NVEdit) | [![Website](https://img.shields.io/badge/Website-9cf)](https://nvedit.github.io/) | Dec, 2023 |
 | [VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models](https://arxiv.org/abs/2311.18837) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18837) |  [![Star](https://img.shields.io/github/stars/ChenHsing/VIDiff.svg?style=social&label=Star)](https://github.com/ChenHsing/VIDiff) | [![Website](https://img.shields.io/badge/Website-9cf)](https://chenhsing.github.io/VIDiff/) | Nov, 2023 |
 | [Consistent Video-to-Video Transfer Using Synthetic Dataset](https://arxiv.org/abs/2311.00213) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00213) | - | - | Nov., 2023 |
@@ -549,12 +555,11 @@
 
 
 
-
-
 ### Video Understanding
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [Diffusion Reward: Learning Rewards via Conditional Video Diffusion](https://arxiv.org/abs/2312.14134) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14134) | [![Star](https://img.shields.io/github/stars/TaoHuang13/diffusion_reward.svg?style=social&label=Star)](https://github.com/TaoHuang13/diffusion_reward) | [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-reward.github.io/) | Dec., 2023 |
 | [ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models](https://arxiv.org/abs/2312.01305) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01305) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://jgkwak95.github.io/ViVid-1-to-3/) | Nov., 2023 |
 | [Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models](https://arxiv.org/abs/2311.15908) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15908) | [![Star](https://img.shields.io/github/stars/claudiom4sir/StableVSR.svg?style=social&label=Star)](https://github.com/claudiom4sir/StableVSR) | - | Nov., 2023 |
 | [Flow-Guided Diffusion for Video Inpainting](https://arxiv.org/abs/2311.15368) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15368) | [![Star](https://img.shields.io/github/stars/NevSNev/FGDVI.svg?style=social&label=Star)](https://github.com/NevSNev/FGDVI) | - | Nov., 2023 |
