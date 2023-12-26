@@ -356,13 +356,13 @@
 
 
 
-
 ## Video Completion
 
 ### Video Enhancement and Restoration
 
 | Title | arXiv | Github | WebSite| Pub. & Date |
 |---|---|---|---|---|
+|[Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution](https://openaccess.thecvf.com/content/WACV2024W/VAQ/papers/Yuan_Inflation_With_Diffusion_Efficient_Temporal_Adaptation_for_Text-to-Video_Super-Resolution_WACVW_2024_paper.pdf) | - | - | - | WACW, 2023 |
 |[Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution](https://arxiv.org/abs/2312.06640) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.06640) | [![Star](https://img.shields.io/github/stars/sczhou/Upscale-A-Video.svg?style=social&label=Star)](https://github.com/sczhou/Upscale-A-Video) | [![Website](https://img.shields.io/badge/Website-9cf)](https://shangchenzhou.com/projects/upscale-a-video/) | Dec., 2023 |
 |[AVID: Any-Length Video Inpainting with Diffusion Model](https://arxiv.org/abs/2312.03816) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03816) | [![Star](https://img.shields.io/github/stars/zhang-zx/AVID.svg?style=social&label=Star)](https://github.com/zhang-zx/AVID) | [![Website](https://img.shields.io/badge/Website-9cf)](https://zhang-zx.github.io/AVID/) | Dec., 2023 |
 |[Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution](https://arxiv.org/abs/2312.00853) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00853) | [![Star](https://img.shields.io/github/stars/IanYeung/MGLD-VSR.svg?style=social&label=Star)](https://github.com/IanYeung/MGLD-VSR) | -| CVPR 2023 |
