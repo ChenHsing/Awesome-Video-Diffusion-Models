@@ -395,20 +395,16 @@
 
 
 
+
 ## Video Editing 
 
 ### General Editing Model
 
 
 
-
-
-
-
-
-
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis](https://arxiv.org/abs/2312.17681) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.17681) |  [![Star](https://img.shields.io/github/stars/Jeff-LiangF/FlowVid.svg?style=social&label=Star)](https://github.com/Jeff-LiangF/FlowVid)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://jeff-liangf.github.io/projects/flowvid/) | Dec, 2023 |
 | [MaskINT: Video Editing via Interpolative Non-autoregressive Masked Transformers](https://arxiv.org/abs/2312.12468) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12468) |  - | [![Website](https://img.shields.io/badge/Website-9cf)](https://maskint.github.io/) | Dec, 2023 |
 | [Neutral Editing Framework for Diffusion-based Video Editing](https://arxiv.org/abs/2312.06708) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.06708) |  - | [![Website](https://img.shields.io/badge/Website-9cf)](https://neuedit.github.io/) | Dec, 2023 |
 | [VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence](https://arxiv.org/abs/2312.02087) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.02087) |  - | [![Website](https://img.shields.io/badge/Website-9cf)](https://videoswap.github.io/) | Nov, 2023 |
