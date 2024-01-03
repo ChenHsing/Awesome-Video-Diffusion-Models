@@ -158,11 +158,13 @@
 
 
 
+
 ## Text-to-Video Generation
 ### Training-based 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+| [VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM](https://arxiv.org/abs/2401.01256) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01256) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://videodrafter.github.io/) | Jan, 2024
 | [A Recipe for Scaling up Text-to-Video Generation with Text-free Videos](https://arxiv.org/abs/2312.15770) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.15770) |[![Star](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl.svg?style=social&label=Star)](https://github.com/damo-vilab/i2vgen-xl)|[![Website](https://img.shields.io/badge/Website-9cf)](https://tf-t2v.github.io/) | Dec, 2023
 | [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12490) |[![Star](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl.svg?style=social&label=Star)](https://github.com/damo-vilab/i2vgen-xl)|[![Website](https://img.shields.io/badge/Website-9cf)](https://instructvideo.github.io/) | Dec, 2023
 | [VideoLCM: Video Latent Consistency Model](https://arxiv.org/abs/2312.09109) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09109) |-|- | Dec, 2023
@@ -219,6 +221,7 @@
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[TRAILBLAZER: TRAJECTORY CONTROL FOR DIFFUSION-BASED VIDEO GENERATION](https://arxiv.org/abs/2401.00896) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.00896) | [![Star](https://img.shields.io/github/stars/hohonu-vicml/Trailblazer.svg?style=social&label=Star)](https://github.com/hohonu-vicml/Trailblazer)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://hohonu-vicml.github.io/Trailblazer.Page/) | Jan, 2024 |
 |[FreeInit: Bridging Initialization Gap in Video Diffusion Models](https://arxiv.org/abs/2312.07537) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.07537) | [![Star](https://img.shields.io/github/stars/TianxingWu/FreeInit.svg?style=social&label=Star)](https://github.com/TianxingWu/FreeInit)  | - | Dec, 2023 |
 |[MTVG : Multi-text Video Generation with Text-to-Video Models](https://arxiv.org/abs/2312.04086) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04086) | -  | [![Website](https://img.shields.io/badge/Website-9cf)](https://kuai-lab.github.io/mtvg-page/) | Dec, 2023 |
 |[F3-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis](https://arxiv.org/abs/2312.03459) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03459) | -  | - | Nov, 2023 |
