@@ -170,12 +170,13 @@
 
 
 
-
 ## Text-to-Video Generation
 ### Training-based 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+| [UNIVG: TOWARDS UNIFIED-MODAL VIDEO GENERATION](https://arxiv.org/abs/2401.09084) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09084) |-|- | Jan, 2024
+| [VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models](https://arxiv.org/abs/2401.09047) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09047) |[![Star](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg?style=social&label=Star)](https://github.com/VideoCrafter/VideoCrafter)|[![Website](https://img.shields.io/badge/Website-9cf)](https://ailab-cvc.github.io/videocrafter/) | Jan, 2024
 | [360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model](https://arxiv.org/abs/2401.06578) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.06578) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://akaneqwq.github.io/360DVD/) | Jan, 2024
 | [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://arxiv.org/abs/2401.04468) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.04468) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://magicvideov2.github.io/) | Jan, 2024
 | [VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM](https://arxiv.org/abs/2401.01256) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01256) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://videodrafter.github.io/) | Jan, 2024
@@ -548,10 +549,13 @@
 
 
 
+
+
 ### Domain-specific Editing Model
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [TRAINING-FREE SEMANTIC VIDEO COMPOSITION VIA PRE-TRAINED DIFFUSION MODEL](https://arxiv.org/abs/2401.09195) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09195) | - | - | Jan, 2024 |
 | [Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models](https://arxiv.org/abs/2312.01409) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01409) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://primecai.github.io/generative_rendering) | CVPR 2023 |
 | [Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator](https://arxiv.org/pdf/2305.02594.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.02594.pdf) | - | - | May, 2023 |
 | [DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis](https://arxiv.org/pdf/2308.03463.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.03463.pdf) | - | - | Aug, 2023 |
