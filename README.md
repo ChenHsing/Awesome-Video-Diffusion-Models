@@ -161,7 +161,7 @@
 | [VBench: Comprehensive Benchmark Suite for Video Generative Models](https://arxiv.org/abs/2311.17982) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17982) |[![Star](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)](https://github.com/Vchitect/VBench)|[![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VBench-project/) | Nov, 2023
 |[FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation](https://arxiv.org/abs/2311.01813) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.01813)  |   - | - | NeurIPS, 2023 |
 |[CVPR 2023 Text Guided Video Editing Competition](https://arxiv.org/abs/2310.16003) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.16003)  |   - | - | Oct., 2023 |
-|[EvalCrafter: Benchmarking and Evaluating Large Video Generation Models](https://arxiv.org/abs/2310.11440) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11440)  | [![Star](https://img.shields.io/github/stars/evalcrafter/EvalCrafter.svg?style=social&label=Star)](https://github.com/evalcrafter/EvalCrafter)|[![Website](https://img.shields.io/badge/Website-9cf)](https://evalcrafter.github.io) | Oct., 2023 |
+|[EvalCrafter: Benchmarking and Evaluating Large Video Generation Models](https://arxiv.org/abs/2310.11440) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11440)  | [![Star](https://img.shields.io/github/stars/evalcrafter/EvalCrafter.svg?style=social&label=Star)](https://github.com/evalcrafter/EvalCrafter)|[![Website](https://img.shields.io/badge/Website-9cf)](https://huggingface.co/datasets/RaphaelLiu/EvalCrafter_T2V_Dataset) | Oct., 2023 |
 |[Measuring the Quality of Text-to-Video Model Outputs: Metrics and Dataset](https://arxiv.org/abs/2309.08009) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.08009)  |   - | - | Sep., 2023 |
 
 
@@ -175,6 +175,7 @@
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+| [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/abs/2401.12945) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.12945) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://lumiere-video.github.io/) | Jan, 2024
 | [UNIVG: TOWARDS UNIFIED-MODAL VIDEO GENERATION](https://arxiv.org/abs/2401.09084) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09084) |-|- | Jan, 2024
 | [VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models](https://arxiv.org/abs/2401.09047) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09047) |[![Star](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg?style=social&label=Star)](https://github.com/VideoCrafter/VideoCrafter)|[![Website](https://img.shields.io/badge/Website-9cf)](https://ailab-cvc.github.io/videocrafter/) | Jan, 2024
 | [360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model](https://arxiv.org/abs/2401.06578) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.06578) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://akaneqwq.github.io/360DVD/) | Jan, 2024
@@ -581,12 +582,11 @@
 
 
 
-
-
 ### Video Understanding
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [Generative Video Diffusion for Unseen Cross-Domain Video Moment Retrieval](https://arxiv.org/abs/2401.13329) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13329) | - | - | Jan., 2024 |
 | [Diffusion Reward: Learning Rewards via Conditional Video Diffusion](https://arxiv.org/abs/2312.14134) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14134) | [![Star](https://img.shields.io/github/stars/TaoHuang13/diffusion_reward.svg?style=social&label=Star)](https://github.com/TaoHuang13/diffusion_reward) | [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-reward.github.io/) | Dec., 2023 |
 | [ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models](https://arxiv.org/abs/2312.01305) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01305) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://jgkwak95.github.io/ViVid-1-to-3/) | Nov., 2023 |
 | [Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models](https://arxiv.org/abs/2311.15908) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15908) | [![Star](https://img.shields.io/github/stars/claudiom4sir/StableVSR.svg?style=social&label=Star)](https://github.com/claudiom4sir/StableVSR) | - | Nov., 2023 |
