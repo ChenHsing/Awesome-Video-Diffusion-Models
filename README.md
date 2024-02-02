@@ -342,10 +342,13 @@
 
 
 
+
+
 ### Multi-modal guided Video Generation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning](https://arxiv.org/abs/2402.00769) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.00769) | - | -| Jan., 2024 |
 |[ActAnywhere: Subject-Aware Video Background Generation](https://arxiv.org/abs/2401.10822) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.10822) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://actanywhere.github.io/) | Jan., 2024 |
 |[CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects](https://arxiv.org/abs/2401.09962) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09962) | - | - | Jan., 2024 |
 |[MoonShot: Towards Controllable Video Generation and Editing with Multimodal Conditions](https://arxiv.org/abs/2401.01827) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01827) | [![Star](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Star)](https://github.com/salesforce/LAVIS) | [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Moonshot/) | Jan., 2024 |
