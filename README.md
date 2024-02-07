@@ -350,10 +350,13 @@
 
 
 
+
 ### Multi-modal guided Video Generation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions](https://arxiv.org/abs/2402.03040) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03040) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://invictus717.github.io/InteractiveVideo/) | Feb., 2024 |
+|[Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion](https://arxiv.org/abs/2402.03162) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03162) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://direct-a-video.github.io/) | Feb., 2024 |
 |[Boximator: Generating Rich and Controllable Motions for Video Synthesis](https://arxiv.org/abs/2402.01566) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.01566) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://boximator.github.io/) | Feb., 2024 |
 |[AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning](https://arxiv.org/abs/2402.00769) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.00769) | - | -| Jan., 2024 |
 |[ActAnywhere: Subject-Aware Video Background Generation](https://arxiv.org/abs/2401.10822) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.10822) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://actanywhere.github.io/) | Jan., 2024 |
