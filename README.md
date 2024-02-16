@@ -57,6 +57,7 @@
 
 | Methods | Task | Github|
 |:-----:|:-----:|:-----:|
+| [Sora](https://openai.com/sora)  | T2V Generation & Editing | -|
 | [VideoPoet](https://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html)  | T2V Generation & Editing | -|
 | [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)  | T2V Generation | [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models)|
 | [NeverEnds](https://neverends.life)   | T2V Generation | - |
