@@ -171,11 +171,14 @@
 
 
 
+
+
 ## Text-to-Video Generation
 ### Training-based 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+| [Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis](https://arxiv.org/abs/2402.14797) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14797) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/snapvideo/) | Feb., 2024
 | [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/abs/2401.12945) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.12945) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://lumiere-video.github.io/) | Jan, 2024
 | [UNIVG: TOWARDS UNIFIED-MODAL VIDEO GENERATION](https://arxiv.org/abs/2401.09084) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09084) |-|- | Jan, 2024
 | [VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models](https://arxiv.org/abs/2401.09047) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09047) |[![Star](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg?style=social&label=Star)](https://github.com/VideoCrafter/VideoCrafter)|[![Website](https://img.shields.io/badge/Website-9cf)](https://ailab-cvc.github.io/videocrafter/) | Jan, 2024
@@ -507,13 +510,16 @@
 
 
 
+
+
 ### One-shot Editing Model
 
 | Title | arXiv | Github | Website | Pub. & Date |
 |---|---|---|---|---|
-|[MotionCrafter: One-Shot Motion Customization of Diffusion Models](https://arxiv.org/abs/2312.05288) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.05288) | [![Star](https://img.shields.io/github/stars/zyxElsa/MotionCrafter.svg?style=social&label=Star)](https://github.com/zyxElsa/MotionCrafter) | - | Dec., 2022 |
-|[DiffusionAtlas: High-Fidelity Consistent Diffusion Video Editing](https://arxiv.org/abs/2312.03772) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03772) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusionatlas.github.io/) | Dec., 2022 |
-|[MotionEditor: Editing Video Motion via Content-Aware Diffusion](https://arxiv.org/abs/2311.18830) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18830) | [![Star](https://img.shields.io/github/stars/Francis-Rings/MotionEditor.svg?style=social&label=Star)](https://github.com/Francis-Rings/MotionEditor) | [![Website](https://img.shields.io/badge/Website-9cf)](https://francis-rings.github.io/MotionEditor/) | Nov., 2022 |
+|[Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models](https://arxiv.org/abs/2402.14780) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14780) | -|  [![Website](https://img.shields.io/badge/Website-9cf)](https://anonymous-314.github.io/)  | Feb., 2024 |
+|[MotionCrafter: One-Shot Motion Customization of Diffusion Models](https://arxiv.org/abs/2312.05288) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.05288) | [![Star](https://img.shields.io/github/stars/zyxElsa/MotionCrafter.svg?style=social&label=Star)](https://github.com/zyxElsa/MotionCrafter) | - | Dec., 2023 |
+|[DiffusionAtlas: High-Fidelity Consistent Diffusion Video Editing](https://arxiv.org/abs/2312.03772) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03772) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusionatlas.github.io/) | Dec., 2023 |
+|[MotionEditor: Editing Video Motion via Content-Aware Diffusion](https://arxiv.org/abs/2311.18830) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18830) | [![Star](https://img.shields.io/github/stars/Francis-Rings/MotionEditor.svg?style=social&label=Star)](https://github.com/Francis-Rings/MotionEditor) | [![Website](https://img.shields.io/badge/Website-9cf)](https://francis-rings.github.io/MotionEditor/) | Nov., 2023 |
 | [Smooth Video Synthesis with Noise Constraints on Diffusion Models for One-shot Video Tuning](https://arxiv.org/abs/2311.17536) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17536) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/SPengLiang/SmoothVideo) | Nov., 2023 |
 | [Cut-and-Paste: Subject-Driven Video Editing with Attention Control](https://arxiv.org/abs/2311.11697) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11697) | - | - | Nov, 2023 |
 | [StableVideo: Text-driven Consistency-aware Diffusion Video Editing](https://arxiv.org/abs/2308.09592) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.09592) | [![Star](https://img.shields.io/github/stars/rese1f/StableVideo?style=social)](https://github.com/rese1f/StableVideo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://rese1f.github.io/StableVideo) | ICCV, 2023 |
