@@ -297,6 +297,7 @@
 ### Sound-guided Video Generation
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions](https://arxiv.org/abs/2402.17485) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17485) | - | - | Apr., 2023 |
 |[The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion](https://arxiv.org/abs/2309.04509) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.04509) | - | - | ICCV, 2023 |
 |[Generative Disco: Text-to-Video Generation for Music Visualization](https://arxiv.org/abs/2304.08551) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08551) | - | - | Apr., 2023 |
 | [AADiff: Audio-Aligned Video Synthesis with Text-to-Image Diffusion](https://arxiv.org/abs/2305.04001) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.04001) | - | - | CVPRW, 2023 |
@@ -577,6 +578,7 @@
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [Motionshop: An application of replacing the characters in video with 3D avatars](https://github.com/aigc3d/motionshop) | - | [![Star](https://img.shields.io/github/stars/aigc3d/motionshop.svg?style=social&label=Star)](https://github.com/aigc3d/motionshop) | [![Website](https://img.shields.io/badge/Website-9cf)](https://aigc3d.github.io/motionshop/) | Dec, 2023 |
 | [Anything in Any Scene: Photorealistic Video Object Insertion](https://arxiv.org/abs/2401.17509) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.17509) | [![Star](https://img.shields.io/github/stars/AnythingInAnyScene/anything_in_anyscene.svg?style=social&label=Star)](https://github.com/AnythingInAnyScene/anything_in_anyscene) | [![Website](https://img.shields.io/badge/Website-9cf)](https://anythinginanyscene.github.io/) | Jan, 2024 |
 | [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04433) | [![Star](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl.svg?style=social&label=Star)](https://github.com/damo-vilab/i2vgen-xl) | [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo-t2v.github.io/) | Dec, 2023 |
 | [MagicStick: Controllable Video Editing via Control Handle Transformations](https://arxiv.org/abs/2312.03047) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03047) | [![Star](https://img.shields.io/github/stars/mayuelala/MagicStick.svg?style=social&label=Star)](https://github.com/mayuelala/MagicStick) | [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-stick-edit.github.io/) | Nov, 2023 |
