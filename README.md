@@ -337,6 +337,7 @@
 |[Generative Image Dynamics](https://arxiv.org/abs/2309.07906) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.07906) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://generative-dynamics.github.io/) | Sep., 2023 |
 |[LaMD: Latent Motion Diffusion for Video Generation](https://arxiv.org/abs/2304.11603) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.11603) | - | - | Apr., 2023 |
 |[Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://arxiv.org/abs/2303.13744) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13744) | [![Star](https://img.shields.io/github/stars/nihaomiao/CVPR23_LFDM.svg?style=social&label=Star)](https://github.com/nihaomiao/CVPR23_LFDM) | - | CVPR 2023 |
+|[NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis](https://arxiv.org/abs/2207.09814) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.09814) | [![Star](https://img.shields.io/github/stars/microsoft/NUWA.svg?style=social&label=Star)](https://github.com/microsoft/NUWA) | [![Website](https://img.shields.io/badge/Website-9cf)](https://nuwa-infinity.microsoft.com/#/NUWAInfinity) | CVPR 2022 |
 
 
 
