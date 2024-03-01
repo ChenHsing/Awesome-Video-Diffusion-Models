@@ -57,6 +57,7 @@
 
 | Methods | Task | Github|
 |:-----:|:-----:|:-----:|
+| [Morph Studio](https://app.morphstudio.com/)  | T2V Generation | -|
 | [Genie](https://sites.google.com/view/genie-2024/home)  | T2V Generation | -|
 | [Sora](https://openai.com/sora)  | T2V Generation & Editing | -|
 | [VideoPoet](https://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html)  | T2V Generation & Editing | -|
