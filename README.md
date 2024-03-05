@@ -321,10 +321,13 @@
 
 
 
+
+
 ### Image-guided Video Generation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[AtomoVideo: High Fidelity Image-to-Video Generation](https://arxiv.org/abs/2403.01800) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01800) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://atomo-video.github.io/) | Mar., 2024 |
 |[Animated Stickers: Bringing Stickers to Life with Video Diffusion](https://arxiv.org/abs/2402.06088) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.06088) | - | - | Feb., 2024 |
 |[CONSISTI2V: Enhancing Visual Consistency for Image-to-Video Generation](https://arxiv.org/abs/2402.04324) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.04324) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://tiger-ai-lab.github.io/ConsistI2V) | Feb., 2024 |
 |[I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models](https://arxiv.org/abs/2312.16693) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.16693) | - | - | Dec., 2023 |
@@ -375,6 +378,7 @@
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control](https://arxiv.org/abs/2403.02332) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02332) | - | - | Mar., 2024 |
 |[Magic-Me: Identity-Specific Video Customized Diffusion](https://arxiv.org/abs/2402.09368) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.09368) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/Zhen-Dong/Magic-Me) | Feb., 2024 |
 |[InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions](https://arxiv.org/abs/2402.03040) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03040) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://invictus717.github.io/InteractiveVideo/) | Feb., 2024 |
 |[Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion](https://arxiv.org/abs/2402.03162) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03162) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://direct-a-video.github.io/) | Feb., 2024 |
@@ -637,10 +641,14 @@
 
 
 
+
+
+
 ### Video Understanding
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction](https://arxiv.org/abs/2403.01226) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01226) | - | - | Mar., 2024 |
 | [Generative Video Diffusion for Unseen Cross-Domain Video Moment Retrieval](https://arxiv.org/abs/2401.13329) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13329) | - | - | Jan., 2024 |
 | [Diffusion Reward: Learning Rewards via Conditional Video Diffusion](https://arxiv.org/abs/2312.14134) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14134) | [![Star](https://img.shields.io/github/stars/TaoHuang13/diffusion_reward.svg?style=social&label=Star)](https://github.com/TaoHuang13/diffusion_reward) | [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-reward.github.io/) | Dec., 2023 |
 | [ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models](https://arxiv.org/abs/2312.01305) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01305) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://jgkwak95.github.io/ViVid-1-to-3/) | Nov., 2023 |
