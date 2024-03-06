@@ -323,10 +323,12 @@
 
 
 
+
 ### Image-guided Video Generation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation](https://arxiv.org/abs/2403.02827) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02827) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://noise-rectification.github.io/) | Mar., 2024 |
 |[AtomoVideo: High Fidelity Image-to-Video Generation](https://arxiv.org/abs/2403.01800) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01800) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://atomo-video.github.io/) | Mar., 2024 |
 |[Animated Stickers: Bringing Stickers to Life with Video Diffusion](https://arxiv.org/abs/2402.06088) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.06088) | - | - | Feb., 2024 |
 |[CONSISTI2V: Enhancing Visual Consistency for Image-to-Video Generation](https://arxiv.org/abs/2402.04324) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.04324) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://tiger-ai-lab.github.io/ConsistI2V) | Feb., 2024 |
