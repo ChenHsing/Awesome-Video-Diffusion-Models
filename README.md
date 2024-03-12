@@ -177,12 +177,12 @@
 
 
 
-
 ## Text-to-Video Generation
 ### Training-based 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+| [FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing](https://arxiv.org/abs/2403.06269) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.06269) |-|- | Mar., 2024
 | [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15391) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/genie-2024/home) | Feb., 2024
 | [Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis](https://arxiv.org/abs/2402.14797) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14797) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/snapvideo/) | Feb., 2024
 | [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/abs/2401.12945) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.12945) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://lumiere-video.github.io/) | Jan, 2024
