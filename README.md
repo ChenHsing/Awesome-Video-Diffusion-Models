@@ -282,6 +282,7 @@
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[Action Reimagined: Text-to-Pose Video Editing for Dynamic Human Actions](https://arxiv.org/abs/2403.07198) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.07198) | - | - | Mar., 2024 |
 |[Do You Guys Want to Dance: Zero-Shot Compositional Human Dance Generation with Multiple Persons](https://arxiv.org/abs/2401.13363) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13363) | - | - | Jan., 2024 |
 |[DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models](https://arxiv.org/abs/2312.05107) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.05107) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamoving.github.io/dreamoving/) | Dec., 2023 |
 |[MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model](https://arxiv.org/abs/2311.16498) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16498) | [![Star](https://img.shields.io/github/stars/magic-research/magic-animate.svg?style=social&label=Star)](https://github.com/magic-research/magic-animate) | [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/magicanimate/) | Nov., 2023 |
