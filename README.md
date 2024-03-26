@@ -285,6 +285,7 @@
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance](https://arxiv.org/abs/2403.14781) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781) | [![Star](https://img.shields.io/github/stars/fudan-generative-vision/champ.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ) | [![Website](https://img.shields.io/badge/Website-9cf)](https://fudan-generative-vision.github.io/champ/) | Mar., 2024 |
 |[Action Reimagined: Text-to-Pose Video Editing for Dynamic Human Actions](https://arxiv.org/abs/2403.07198) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.07198) | - | - | Mar., 2024 |
 |[Do You Guys Want to Dance: Zero-Shot Compositional Human Dance Generation with Multiple Persons](https://arxiv.org/abs/2401.13363) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13363) | - | - | Jan., 2024 |
 |[DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models](https://arxiv.org/abs/2312.05107) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.05107) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamoving.github.io/dreamoving/) | Dec., 2023 |
@@ -305,6 +306,7 @@
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance](https://arxiv.org/abs/2403.14781) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781) | [![Star](https://img.shields.io/github/stars/fudan-generative-vision/champ.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ) | [![Website](https://img.shields.io/badge/Website-9cf)](https://fudan-generative-vision.github.io/champ/) | Mar., 2024 |
 |[Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling](https://arxiv.org/abs/2401.15977) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15977) | - | - | Jan., 2024 |
 |[Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation](https://arxiv.org/abs/2401.10150) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.10150) | - | - | Jan., 2024 |
 |[Customizing Motion in Text-to-Video Diffusion Models](https://arxiv.org/abs/2312.04966) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04966) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://joaanna.github.io/customizing_motion/) | Dec., 2023 |
