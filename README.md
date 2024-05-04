@@ -524,6 +524,7 @@
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+|[EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing](https://arxiv.org/abs/2403.16111) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.16111) |[![Star](https://img.shields.io/github/stars/knightyxp/EVA_Video_Edit.svg?style=social&label=Star)](https://github.com/knightyxp/EVA_Video_Edit) | [![Website](https://img.shields.io/badge/Website-9cf)](https://knightyxp.github.io/EVA/) | March, 2024 |
 |[UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing](https://arxiv.org/abs/2402.13185) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.13185) |- | [![Website](https://img.shields.io/badge/Website-9cf)](https://jianhongbai.github.io/UniEdit/) | Feb, 2024 |
 |[Object-Centric Diffusion for Efficient Video Editing](https://arxiv.org/abs/2401.05735) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.05735) | - | - | Jan, 2024 |
 |[RealCraft: Attention Control as A Solution for Zero-shot Long Video Editing](https://arxiv.org/abs/2312.12635) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12635) | - | - | Dec, 2023 |
