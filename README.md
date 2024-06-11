@@ -471,6 +471,7 @@
 
 | Title | arXiv | Github | Website | Pub. & Date |
 |---|---|---|---|---|
+|[AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction](https://arxiv.org/abs/2406.06465) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06465) | [![Star](https://img.shields.io/github/stars/Chenhsing/AID.svg?style=social&label=Star)](https://github.com/Chenhsing/AID) | [![Website](https://img.shields.io/badge/Website-9cf)](https://chenhsing.github.io/AID) | Jun, 2024 |
 |[STDiff: Spatio-temporal Diffusion for Continuous Stochastic Video Prediction](https://arxiv.org/abs/2312.06486) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.06486) | [![Star](https://img.shields.io/github/stars/XiYe20/STDiffProject.svg?style=social&label=Star)](https://github.com/XiYe20/STDiffProject) | - | Dec, 2023 |
 |[Video Diffusion Models with Local-Global Context Guidance](https://arxiv.org/pdf/2306.02562.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.02562.pdf) | [![Star](https://img.shields.io/github/stars/exisas/LGC-VD.svg?style=social&label=Star)](https://github.com/exisas/LGC-VD) | - | IJCAI, 2023 |
 |[Seer: Language Instructed Video Prediction with Latent Diffusion Models](https://arxiv.org/abs/2303.14897) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14897) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://seervideodiffusion.github.io/) | Mar., 2023 |
