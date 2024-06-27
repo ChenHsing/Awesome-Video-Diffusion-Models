@@ -501,6 +501,7 @@
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing](https://arxiv.org/abs/2406.12831) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.12831) |[![Star](https://img.shields.io/github/stars/eric-ai-lab/via-video.svg?style=social&label=Star)](https://github.com/eric-ai-lab/via-video) | [![Website](https://img.shields.io/badge/Website-9cf)](https://via-video.github.io/)| Jun, 2024 |
 | [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](https://arxiv.org/abs/2403.12962) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12962) |-|- | Mar., 2024
 | [FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing](https://arxiv.org/abs/2403.06269) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.06269) |-|- | Mar., 2024
 | [DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing](https://arxiv.org/abs/2403.12002) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12002) |  -  | [![Website](https://img.shields.io/badge/Website-9cf)](https://hyeonho99.github.io/dreammotion/) | Mar, 2024 |
@@ -528,6 +529,7 @@
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing](https://arxiv.org/abs/2406.12831) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.12831) |[![Star](https://img.shields.io/github/stars/eric-ai-lab/via-video.svg?style=social&label=Star)](https://github.com/eric-ai-lab/via-video) | [![Website](https://img.shields.io/badge/Website-9cf)](https://via-video.github.io/)| Jun, 2024 |
 |[EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing](https://arxiv.org/abs/2403.16111) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.16111) |[![Star](https://img.shields.io/github/stars/knightyxp/EVA_Video_Edit.svg?style=social&label=Star)](https://github.com/knightyxp/EVA_Video_Edit) | [![Website](https://img.shields.io/badge/Website-9cf)](https://knightyxp.github.io/EVA/) | March, 2024 |
 |[UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing](https://arxiv.org/abs/2402.13185) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.13185) |- | [![Website](https://img.shields.io/badge/Website-9cf)](https://jianhongbai.github.io/UniEdit/) | Feb, 2024 |
 |[Object-Centric Diffusion for Efficient Video Editing](https://arxiv.org/abs/2401.05735) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.05735) | - | - | Jan, 2024 |
@@ -591,6 +593,7 @@
 ### Instruct-guided Video Editing
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing](https://arxiv.org/abs/2406.12831) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.12831) |[![Star](https://img.shields.io/github/stars/eric-ai-lab/via-video.svg?style=social&label=Star)](https://github.com/eric-ai-lab/via-video) | [![Website](https://img.shields.io/badge/Website-9cf)](https://via-video.github.io/)| Jun, 2024 |
 | [EffiVED:Efficient Video Editing via Text-instruction Diffusion Models](https://arxiv.org/abs/2403.11568) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.11568) |  - | - | Mar, 2024 |
 | [Fairy: Fast Parallellized Instruction-Guided Video-to-Video Synthesis](https://arxiv.org/abs/2312.13834) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13834) |  - | [![Website](https://img.shields.io/badge/Website-9cf)](https://fairy-video2video.github.io/) | Dec, 2023 |
 | [Neural Video Fields Editing](https://arxiv.org/abs/2312.08882) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08882) |  [![Star](https://img.shields.io/github/stars/Ysz2022/NVEdit.svg?style=social&label=Star)](https://github.com/Ysz2022/NVEdit) | [![Website](https://img.shields.io/badge/Website-9cf)](https://nvedit.github.io/) | Dec, 2023 |
