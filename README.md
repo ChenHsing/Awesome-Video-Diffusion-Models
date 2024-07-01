@@ -293,6 +293,7 @@
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance](https://arxiv.org/abs/2406.19680) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19680) | [![Star](https://img.shields.io/github/stars/Tencent/MimicMotion.svg?style=social&label=Star)](https://github.com/Tencent/MimicMotion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://tencent.github.io/MimicMotion/) | Jul., 2024 |
 |[Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance](https://arxiv.org/abs/2403.14781) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781) | [![Star](https://img.shields.io/github/stars/fudan-generative-vision/champ.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ) | [![Website](https://img.shields.io/badge/Website-9cf)](https://fudan-generative-vision.github.io/champ/) | Mar., 2024 |
 |[Action Reimagined: Text-to-Pose Video Editing for Dynamic Human Actions](https://arxiv.org/abs/2403.07198) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.07198) | - | - | Mar., 2024 |
 |[Do You Guys Want to Dance: Zero-Shot Compositional Human Dance Generation with Multiple Persons](https://arxiv.org/abs/2401.13363) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13363) | - | - | Jan., 2024 |
