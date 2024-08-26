@@ -46,9 +46,28 @@
 </p>
 
 
-- [News] <span style="color:red;"> **We are planning to update the survey soon to encompass the latest work. If you have any suggestions, please feel free to contact us.**</span>
+- [News] <span style="color:red;"> **Our survey is accepted by ACM Computing Surveys (CSUR).**</span>
 - [News] The Chinese translation is available on [Zhihu](https://zhuanlan.zhihu.com/p/661860981). Special thanks to [Dai-Wenxun](https://github.com/Dai-Wenxun) for this.
 
+
+## Contact
+If you have any suggestions or find our work helpful, feel free to contact us
+
+Homepage: [Zhen Xing](https://chenhsing.github.io)
+
+Email: zhenxingfd@gmail.com
+
+
+If you find our survey is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
+
+```
+@article{vdmsurvey,
+  title={A Survey on Video Diffusion Models},
+  author={Zhen Xing and Qijun Feng and Haoran Chen and Qi Dai and Han Hu and Hang Xu and Zuxuan Wu and Yu-Gang Jiang}, 
+  journal={arXiv preprint arXiv:2310.10647},
+  year={2023}
+}
+```
 
 
 
@@ -728,21 +747,3 @@
 | [Spatial-temporal Transformer-guided Diffusion based Data Augmentation for Efficient Skeleton-based Action Recognition](https://arxiv.org/pdf/2302.13434.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2302.13434.pdf) | - | - | Jul., 2023 |
 |[PDPP: Projected Diffusion for Procedure Planning in Instructional Videos](https://arxiv.org/abs/2303.14676) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14676) | [![Star](https://img.shields.io/github/stars/MCG-NJU/PDPP.svg?style=social&label=Star)](https://github.com/MCG-NJU/PDPP) | - |CVPR 2023 |
 
-## Contact
-If you have any suggestions or find our work helpful, feel free to contact us
-
-Homepage: [Zhen Xing](https://chenhsing.github.io)
-
-Email: zhenxingfd@gmail.com
-
-
-If you find our survey is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
-
-```
-@article{vdmsurvey,
-  title={A Survey on Video Diffusion Models},
-  author={Zhen Xing and Qijun Feng and Haoran Chen and Qi Dai and Han Hu and Hang Xu and Zuxuan Wu and Yu-Gang Jiang}, 
-  journal={arXiv preprint arXiv:2310.10647},
-  year={2023}
-}
-```
