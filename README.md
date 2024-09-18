@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/221e74d6-5f82-41c3-b5f6-4c31261d6efa)
 
 # [A Survey on Video Diffusion Models](https://arxiv.org/abs/2310.10647) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10647) 
 
@@ -45,7 +45,7 @@
 <a href="https://research.nvidia.com/labs/toronto-ai/VideoLDM/">Video LDM</a> and <a href="https://tuneavideo.github.io/">Tune-A-Video</a>)
 </p>
 
-
+- [News] The updated version is available on [arXiv](https://arxiv.org/abs/2310.10647).
 - [News] <span style="color:red;"> **Our survey is accepted by ACM Computing Surveys (CSUR).**</span>
 - [News] The Chinese translation is available on [Zhihu](https://zhuanlan.zhihu.com/p/661860981). Special thanks to [Dai-Wenxun](https://github.com/Dai-Wenxun) for this.
 
