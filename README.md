@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/221e74d6-5f82-41c3-b5f6-4c31261d6efa)
 
 # [A Survey on Video Diffusion Models](https://arxiv.org/abs/2310.10647) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10647) 
 
