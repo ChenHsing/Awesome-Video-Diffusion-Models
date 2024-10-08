@@ -60,11 +60,12 @@ Email: zhenxingfd@gmail.com
 If you find our survey is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 
 ```
-@article{vdmsurvey,
-  title={A Survey on Video Diffusion Models},
-  author={Zhen Xing and Qijun Feng and Haoran Chen and Qi Dai and Han Hu and Hang Xu and Zuxuan Wu and Yu-Gang Jiang}, 
-  journal={arXiv preprint arXiv:2310.10647},
-  year={2023}
+@article{xing2023survey,
+  title={A survey on video diffusion models},
+  author={Xing, Zhen and Feng, Qijun and Chen, Haoran and Dai, Qi and Hu, Han and Xu, Hang and Wu, Zuxuan and Jiang, Yu-Gang},
+  journal={ACM Computing Surveys},
+  year={2023},
+  publisher={ACM New York, NY}
 }
 ```
 
