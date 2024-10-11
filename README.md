@@ -76,6 +76,8 @@ If you find our survey is useful in your research or applications, please consid
 
 | Methods | Task | Github|
 |:-----:|:-----:|:-----:|
+| [Movie Gen](https://ai.meta.com/research/movie-gen/)  | T2V Generation | -|
+| [CogVideoX](https://github.com/THUDM/CogVideo)  | T2V Generation | [![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)](https://github.com/THUDM/CogVideo)|
 | [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan/blob/main/docs/Report-v1.0.0.md)  | T2V Generation | [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)|
 | [Open-Sora](https://github.com/hpcaitech/Open-Sora/blob/main/docs/zh_CN/README.md)  | T2V Generation | [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)](https://github.com/hpcaitech/Open-Sora)|
 | [Morph Studio](https://app.morphstudio.com/)  | T2V Generation | -|
@@ -173,15 +175,6 @@ If you find our survey is useful in your research or applications, please consid
 
 
 
-
-
-
-
-
-
-
-
-
 ### Metric and BenchMark
 
 | Title | arXiv | Github| WebSite | Pub. & Date
@@ -202,14 +195,13 @@ If you find our survey is useful in your research or applications, please consid
 
 
 
-
-
-
 ## Text-to-Video Generation
 ### Training-based 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+| [Movie Gen](https://ai.meta.com/research/movie-gen/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ai.meta.com/static-resource/movie-gen-research-paper) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/research/movie-gen/) | Oct, 2024
+| [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](https://arxiv.org/abs/2408.06072) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06072) |[![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)](https://github.com/THUDM/CogVideo)|-| Oct, 2024
 | [Grid Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2404.00234) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.00234) |[![Star](https://img.shields.io/github/stars/taegyeong-lee/Grid-Diffusion-Models-for-Text-to-Video-Generation.svg?style=social&label=Star)](https://github.com/taegyeong-lee/Grid-Diffusion-Models-for-Text-to-Video-Generation)|[![Website](https://img.shields.io/badge/Website-9cf)](https://taegyeong-lee.github.io/text2video) | CVPR, 2024
 | [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://arxiv.org/abs/2404.05014) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05014) |[![Star](https://img.shields.io/github/stars/PKU-YuanGroup/MagicTime.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/MagicTime)|[![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/MagicTime/) | Apr., 2024
 | [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/abs/2403.13248) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.13248) |-|- | Mar., 2024
@@ -471,6 +463,7 @@ If you find our survey is useful in your research or applications, please consid
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+|[Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach](https://arxiv.org/pdf/2410.03160) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.03160) | [![Star](https://img.shields.io/github/stars/Yaofang-Liu/FVDM.svg?style=social&label=Star)](https://github.com/Yaofang-Liu/FVDM) |- | Oct., 2024 |
 |[Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/abs/2401.03048) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.03048) | [![Star](https://img.shields.io/github/stars/Vchitect/Latte.svg?style=social&label=Star)](https://github.com/Vchitect/Latte) | [![Website](https://img.shields.io/badge/Website-9cf)](https://maxin-cn.github.io/latte_project/) | Jan., 2024 |
 |[VDT: An Empirical Study on Video Diffusion with Transformers](https://arxiv.org/abs/2305.13311) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13311) | [![Star](https://img.shields.io/github/stars/RERV/VDT.svg?style=social&label=Star)](https://github.com/RERV/VDT) | - | May, 2023 |
 |[Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer](https://arxiv.org/abs/2204.03638) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.03638) | [![Star](https://img.shields.io/github/stars/SongweiGe/TATS.svg?style=social&label=Star)](https://github.com/SongweiGe/TATS) | [![Website](https://img.shields.io/badge/Website-9cf)](https://songweige.github.io/projects/tats/index.html) | May, 2023 |
