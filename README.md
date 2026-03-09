@@ -76,6 +76,7 @@ If you find our survey is useful in your research or applications, please consid
 
 | Methods | Task | Github|
 |:-----:|:-----:|:-----:|
+| [Helios](https://github.com/PKU-YuanGroup/Helios)  | T2V Generation | [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Helios.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Helios)|
 | [Movie Gen](https://ai.meta.com/research/movie-gen/)  | T2V Generation | -|
 | [CogVideoX](https://github.com/THUDM/CogVideo)  | T2V Generation | [![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)](https://github.com/THUDM/CogVideo)|
 | [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan/blob/main/docs/Report-v1.0.0.md)  | T2V Generation | [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)|
@@ -203,6 +204,7 @@ If you find our survey is useful in your research or applications, please consid
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+| [Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.04379) |[![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Helios.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Helios)|[![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/Helios-Page/) | Arxiv, 2026
 | [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440) |[![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)|[![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/ConsisID/) | CVPR, 2025
 | [Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning](https://arxiv.org/abs/2410.24219) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.24219) |[![Star](https://img.shields.io/github/stars/PR-Ryan/DEMO.svg?style=social&label=Star)](https://github.com/PR-Ryan/DEMO)|[![Website](https://img.shields.io/badge/Website-9cf)](https://pr-ryan.github.io/DEMO-project/)| NeurIPS 2024
 | [Movie Gen](https://ai.meta.com/research/movie-gen/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ai.meta.com/static-resource/movie-gen-research-paper) |-|[![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/research/movie-gen/) | Oct, 2024
