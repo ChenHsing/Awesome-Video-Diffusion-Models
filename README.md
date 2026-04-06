@@ -47,6 +47,7 @@
 - [News] The updated version is available on [arXiv](https://arxiv.org/abs/2310.10647).
 - [News] <span style="color:red;"> **Our survey is accepted by ACM Computing Surveys (CSUR).**</span>
 - [News] The Chinese translation is available on [Zhihu](https://zhuanlan.zhihu.com/p/661860981). Special thanks to [Dai-Wenxun](https://github.com/Dai-Wenxun) for this.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for video diffusion model workflow orchestration, automated video generation management, and multi-agent coordination. MIT licensed.
 
 
 ## Contact
