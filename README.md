@@ -100,6 +100,7 @@ If you find our survey is useful in your research or applications, please consid
 | [HotShot-XL](https://github.com/hotshotco/Hotshot-XL) |  T2V Genetation |[![Star](https://img.shields.io/github/stars/hotshotco/Hotshot-XL.svg?style=social&label=Star)](https://github.com/hotshotco/Hotshot-XL)|
 | [Genmo](https://www.genmo.ai/) |  T2V Genetation |-|
 | [Fliki](https://fliki.ai/) | T2V Generation | -|
+| [Seedream AI Studio](https://seedream4.video/) | Image Generation + I2V Animation | -|
 
 
 
