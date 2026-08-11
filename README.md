@@ -101,6 +101,7 @@ If you find our survey is useful in your research or applications, please consid
 | [Genmo](https://www.genmo.ai/) |  T2V Genetation |-|
 | [Fliki](https://fliki.ai/) | T2V Generation | -|
 | [Seedream AI Studio](https://seedream4.video/) | Image Generation + I2V Animation | -|
+| [Omni-Rewriter](https://github.com/WayneJin0918/Omni-Rewriter)  | Prompt Expansion (Video/Image PE) | [![Star](https://img.shields.io/github/stars/WayneJin0918/Omni-Rewriter.svg?style=social&label=Star)](https://github.com/WayneJin0918/Omni-Rewriter)|
 
 
 
