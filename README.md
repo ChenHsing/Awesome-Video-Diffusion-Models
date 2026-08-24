@@ -700,6 +700,7 @@ If you find our survey is useful in your research or applications, please consid
 
 | Title | arXiv | Github | Website | Pub. Date |
 |---|---|---|---|---|
+| [OutDreamer: Video Outpainting with a Diffusion Transformer](https://arxiv.org/abs/2506.22298) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.22298) | [![Star](https://img.shields.io/github/stars/zhongzero/OutDreamer.svg?style=social&label=Star)](https://github.com/zhongzero/OutDreamer) | - | IEEE TIP 2026 |
 | [Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation](https://arxiv.org/abs/2403.13745) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.13745) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://ecnu-cilab.github.io/DiffutoonProjectPage/) | Jan. 2024 |
 | [Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models](https://arxiv.org/abs/2401.16224) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.16224) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://ecnu-cilab.github.io/DiffutoonProjectPage/) | Jan. 2024 |
 | [TRAINING-FREE SEMANTIC VIDEO COMPOSITION VIA PRE-TRAINED DIFFUSION MODEL](https://arxiv.org/abs/2401.09195) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09195) | - | - | Jan, 2024 |
