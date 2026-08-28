@@ -168,6 +168,7 @@ If you find our survey is useful in your research or applications, please consid
 
 
 
+| [MiniMax H3 1K Prompt Dataset](https://neta.art/use-cases/en/h3-1000-prompt-list) | [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-blue?logo=huggingface)](https://huggingface.co/datasets/ostris/minimax_h3_1k) | [![Star](https://img.shields.io/github/stars/yangzhou-chaofan/minimax-h3-1000-prompts.svg?style=social&label=Star)](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) | [![Website](https://img.shields.io/badge/Website-9cf)](https://neta.art/use-cases/en/h3-1000-prompt-list) | 2026 |
 
 ### Category-level
 
